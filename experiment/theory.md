@@ -2,10 +2,10 @@ Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-tu
 <img src="images/fig1.png"><br>
 <i>Fig. 1: Working Principle of Pelton turbine</i><br><br> 
 <b>Parts of a Pelton Turbine</b><br>
-<img src="images/fig1.png"><br>
+<img src="images/fig2.png"><br>
 <i>Fig. 2: Parts of Pelton Turbine</i><br><br>
 <b>Nozzle and Flow Regulating Assembly (Spear)<b><br>
-<img src="images/fig1.png"><br>
+<img src="images/fig3.png"><br>
 <i>Fig. 3: Flow Regulation Assembly</i><br>
 •	Nozzle is used to increase the kinetic energy of the water that is going to strike the buckets or vanes attached to the runner<br>
 •	The quantity of water that strikes the buckets is controlled by spear. The spear is installed inside the nozzle and regulates the flow ofwater that is going to strike on the vanes of the runner. A nozzle containing spear is shown in the figure given above<br>
