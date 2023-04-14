@@ -30,7 +30,7 @@ Where Dd = diameter of the drum, Dr = diameter of rope<br>
 2.	Speed (RPM) = <br>
 3.	W<br>
 4.	Q = K*Sqrt(H) where K = 21.1<br><br>
-<img src="images/table1.png"><br>
+<img src="images/table1.PNG"><br>
 <img src="images/table1_fig.png">
 
 
