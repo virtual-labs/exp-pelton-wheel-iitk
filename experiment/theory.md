@@ -27,10 +27,11 @@ The outer covering of this turbine is called casing. The Pelton turbine with the
 •	It prevents the splashing of the water and helps to discharge the water to the trail race. It also acts as a safeguard in the case of an accident occurs<br>
 •	Cast iron or fabricated steel plates are used to make the casing of the Pelton Turbine<br><br>
 <b>Breaking Jet</b><br><br>
+<img src="images/fig5.png"><br>
  <i>Fig. 5: Breaking Jet</i><br><br>
 •	In order to stop the runner in the shortest possible time, a small nozzle is provided which directs the jet of water at the back of the vanes. This jet of water used to stop the runner of the turbine is called breaking jet.<br>
 •	Additionally, in case of emergency a deflector is also provided in spear assembly which diverts the water jet away from the buckets and reduces the speed of the runner without releasing the pressure<br><br>
-<b>Penstock<b><br><br>
+<b>Penstock</b><br><br>
 A penstock is a pipe that conveys the flow from the storage to the turbine. The potential energy of water at the storage tank is converted into kinetic energy at the turbine via the penstock pipe.<br><br>
 <b>Governor Mechanism</b><br>
 The speed of the turbine runner is required to be maintained constant so that the electric generator can be coupled directly to the turbine. Therefore, a device called governor is used to measure and regulate the speed of the turbine runner.<br>
