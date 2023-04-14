@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Pelton turbine is ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Impulsive Turbine",
+        "b": "Reaction Turbine",
+        "c": "Hybrid of Impulsive and Reaction Turbine",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Maximum Head required in the following turbine",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Kalpan",
+        "b": "Pelton",
+        "c": "Francis",
+        "d": "All of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +32,41 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3 Brake Jet in Pelton turbine is mainly used for",
+      "answers": {
+        "a": "Emergency braking",
+        "b": "Maintaining the speed",
+        "c": "Stopping the runner to stand still",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Penstock is the___in a hydroelectric power plant",
+      "answers": {
+        "a": "A conduit that connects the forebay to the turbine’s casing",
+        "b": "Pipe connecting the surge tank to the dam",
+        "c": "A pipe attached to the runner output",
+        "d": "A nozzle for spraying water"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]

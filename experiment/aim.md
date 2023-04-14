@@ -1,1 +1,1 @@
-### Aim of the experiment
+### To study the performance of a Pelton Turbine and draw operating characteristics of Pelton Turbine
