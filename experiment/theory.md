@@ -4,7 +4,7 @@ Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-tu
 <b>Parts of a Pelton Turbine</b><br>
 <img src="images/fig2.png"><br>
 <i>Fig. 2: Parts of Pelton Turbine</i><br><br>
-<b>Nozzle and Flow Regulating Assembly (Spear)<b><br>
+<b>Nozzle and Flow Regulating Assembly (Spear)</b><br>
 <img src="images/fig3.png"><br>
 <i>Fig. 3: Flow Regulation Assembly</i><br>
 •	Nozzle is used to increase the kinetic energy of the water that is going to strike the buckets or vanes attached to the runner<br>
@@ -34,7 +34,7 @@ The outer covering of this turbine is called casing. The Pelton turbine with the
 A penstock is a pipe that conveys the flow from the storage to the turbine. The potential energy of water at the storage tank is converted into kinetic energy at the turbine via the penstock pipe.<br><br>
 <b>Governor Mechanism</b><br>
 The speed of the turbine runner is required to be maintained constant so that the electric generator can be coupled directly to the turbine. Therefore, a device called governor is used to measure and regulate the speed of the turbine runner.<br>
-<b>Working of Pelton wheel:<b><br>
+<b>Working of Pelton wheel:</b><br>
 •	The water stored at a high head is made to flow through the penstock and reaches the nozzle of the Pelton turbine.<br>
 •	The nozzle increases the K.E. of the water and directs the water in the form of a jet<br>
 •	The jet of water from the nozzle strikes the buckets (vanes) of the runner. This made the runner to rotate at very high speed<br>
