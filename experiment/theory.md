@@ -1,11 +1,11 @@
-Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-turbine is a prime example of turning kinetic energy of water into rotational energy consequently to work done. Pelton turbine primarily consist of number of buckets arranged around the circumference of a wheel (Runner).  When a fast flow water jet hits the bucket tangentially, the wheel starts to rotate hence turning kinetic energy into rotational kinetic energy. Here impulsive turbine simply means that           Fig. 1: Working Principle of Pelton turbine instead of moving as a result of a reaction force, water creates some impulse on the turbine to get it to move<br>
-<img src="images/fig1.png"><br>
+Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-turbine is a prime example of turning kinetic energy of water into rotational energy consequently to work done. Pelton turbine primarily consist of number of buckets arranged around the circumference of a wheel (Runner).  When a fast flow water jet hits the bucket tangentially, the wheel starts to rotate hence turning kinetic energy into rotational kinetic energy. Here impulsive turbine simply means that <br><br>          Fig. 1: Working Principle of Pelton turbine instead of moving as a result of a reaction force, water creates some impulse on the turbine to get it to move<br>
+<img src="images/fig1.png"><br><br>
 <i>Fig. 1: Working Principle of Pelton turbine</i><br><br> 
 <b>Parts of a Pelton Turbine</b><br>
 <img src="images/fig2.png"><br>
 <i>Fig. 2: Parts of Pelton Turbine</i><br><br>
 <b>Nozzle and Flow Regulating Assembly (Spear)</b><br>
-<img src="images/fig3.png"><br>
+<img src="images/fig3.png"><br><br>
 <i>Fig. 3: Flow Regulation Assembly</i><br>
 •	Nozzle is used to increase the kinetic energy of the water that is going to strike the buckets or vanes attached to the runner<br>
 •	The quantity of water that strikes the buckets is controlled by spear. The spear is installed inside the nozzle and regulates the flow ofwater that is going to strike on the vanes of the runner. A nozzle containing spear is shown in the figure given above<br>
@@ -13,7 +13,7 @@ Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-tu
 •	When the spear is moving backward the rate of flow of water increases and when it is pushed forward the rate of flow of water decreases<br><br>
 
 <b>Runner and Buckets</b><br><br>
-<img src="images/fig4.png"><br>
+<img src="images/fig4.png"><br><br>
  <i>Fig. 4: Runner and Bucket</i><br>
 The runner with buckets is shown in the figure given above.<br>
 •	Runner is a rotating part of the turbine. It is a circular disc on the periphery of which a number of buckets evenly spaced are fixed.<br>
@@ -27,7 +27,7 @@ The outer covering of this turbine is called casing. The Pelton turbine with the
 •	It prevents the splashing of the water and helps to discharge the water to the trail race. It also acts as a safeguard in the case of an accident occurs<br>
 •	Cast iron or fabricated steel plates are used to make the casing of the Pelton Turbine<br><br>
 <b>Breaking Jet</b><br><br>
-<img src="images/fig5.png"><br>
+<img src="images/fig5.png"><br><br>
  <i>Fig. 5: Breaking Jet</i><br><br>
 •	In order to stop the runner in the shortest possible time, a small nozzle is provided which directs the jet of water at the back of the vanes. This jet of water used to stop the runner of the turbine is called breaking jet.<br>
 •	Additionally, in case of emergency a deflector is also provided in spear assembly which diverts the water jet away from the buckets and reduces the speed of the runner without releasing the pressure<br><br>
@@ -42,7 +42,7 @@ The speed of the turbine runner is required to be maintained constant so that th
 •	The quantity of water striking the vanes or buckets is controlled by the needle valve present inside the nozzle<br>
 •	The generator is attached to the shaft of the runner which converts the mechanical energy of the runner into electrical energy<br><br>
 <b>Head Types</b><br><br>
-<img src="images/fig6.png"><br>
+<img src="images/fig6.png"><br><br>
  <i>Fig. 6: Various Head Types</i><br>
 <b>Gross Head (Hg):</b>
 The gross head is the difference between the water level at the reservoir and the water level at the tailrace. It is denoted by Hg.
@@ -52,7 +52,7 @@ Net or Effective Head (H):<br>
 
 The head available at the inlet of the turbine is known as the net or effective head. It is denoted by H and is given by H=Hg-hf   
 
-<img src="images/hf_formula.png"><br>
+<img src="images/hf_formula.png"><br><br>
 where hf = total loss of head due to friction during the transit of water from headrace to tailrace and is given by:<br><br>
 Where,<br>
  f = coefficient of friction of penstock depending on the type of material of penstock<br>
@@ -72,7 +72,7 @@ Where,<br>
  The volumetric efficiency is the ratio of the volume of water actually striking the runner to the volume of water supplied by the jet to the turbine.<br><br>
  <img src="images/formula4.png"><br><br>
  <b>Overall Efficiency</b><br><br>
- It is defined as the ratio of the power available at the turbine shaft to the power supplied by the water jet.<br>
+ It is defined as the ratio of the power available at the turbine shaft to the power supplied by the water jet.
  
 
 
