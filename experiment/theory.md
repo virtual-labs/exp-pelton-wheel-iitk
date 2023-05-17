@@ -1,6 +1,8 @@
-Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-turbine is a prime example of turning kinetic energy of water into rotational energy consequently to work done. Pelton turbine primarily consist of number of buckets arranged around the circumference of a wheel (Runner).  When a fast flow water jet hits the bucket tangentially, the wheel starts to rotate hence turning kinetic energy into rotational kinetic energy. Here impulsive turbine simply means that <br><br>          Fig. 1: Working Principle of Pelton turbine instead of moving as a result of a reaction force, water creates some impulse on the turbine to get it to move<br>
-<img src="images/fig1.png"><br><br>
-<i>Fig. 1: Working Principle of Pelton turbine</i><br><br> 
+Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-turbine is a prime example of turning kinetic energy of water into rotational energy consequently to work done. Pelton turbine primarily consist of number of buckets arranged around the circumference of a wheel (Runner).  When a fast flow water jet hits the bucket tangentially, the wheel starts to rotate hence turning kinetic energy into rotational kinetic energy. Here impulsive turbine simply means that <br><br>          
+ <video width="320" height="240" controls>
+  <source src="images/VID_20230508231407.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video> <br><br>
 <b>Parts of a Pelton Turbine</b><br>
 <img src="images/fig2.png"><br>
 <i>Fig. 2: Parts of Pelton Turbine</i><br><br>
