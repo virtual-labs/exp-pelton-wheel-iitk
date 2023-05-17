@@ -7,18 +7,18 @@ K is a constant depends on venturi meter dimensions<br><br>
 2.	Shaft Power/Brake Power developed (B.P)<br>
 B.P = 2πNWRex9.81/60,000    kW<br>
 Where N = speed in RPM<br>
-              W = Load applied on brake drum (N)<br>
-               Re = Effective radius of the brake drum in meters<br><br>
+W = Load applied on brake drum (N)<br>
+Re = Effective radius of the brake drum in meters<br><br>
 
 3.	Water Power<br>
 W.P = wQH/1000  kW<br>
 Where w = Specific weight of water (9810 N/m<sup>3</sup>)<br>
-              Q = Discharge in m<sup>3</sup>/s (as calculated at 1)<br>
-              H = Head (of water) acting on Pelton Turbine<br><br>
+Q = Discharge in m<sup>3</sup>/s (as calculated at 1)<br>
+H = Head (of water) acting on Pelton Turbine<br><br>
 
 4.	Overall Efficiency<br> 
 ƞ<sub>o</sub> = B.P/W.P<br><br>
-Procedure<br><br>
+<b>Procedure</b><br><br>
 1.	Change the load on the Hanger (W) and note the reading of the spring balance (S)<br>
 2.	Adjust delivery valve of centrifugal pump to keep head (H) same and adjust spear position to keep RPM same<br>
 3.	With constant speed and almost constant head note still level reading (Hook Gauge reading)<br>
