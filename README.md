@@ -4,7 +4,7 @@
 <b>Discipline | <b>Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Fluid Mechanics Lab
-<b> Experiment|   <b> Determine loss variables for different types of flow in pipe and open channels
+<b> Experiment|   <b> Characteristic curves of Pelton wheel.
 
 ### About the Experiment 
 
