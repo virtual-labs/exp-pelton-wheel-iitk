@@ -8,7 +8,7 @@
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-turbine is a prime example of turning kinetic energy of water into rotational energy consequently to work done. Pelton turbine primarily consist of number of buckets arranged around the circumference of a wheel (Runner). When a fast flow water jet hits the bucket tangentially, the wheel starts to rotate hence turning kinetic energy into rotational kinetic energy.
 
 <b>Name of Developer | <b> Prof. J. Ramkumar,  Dr. Amandeep Singh
 :--|:--|
