@@ -68,6 +68,23 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "5. A Pelton wheel is to be designed with a wheel pitch dia. of 1 m and jet dia. of 0.1 m. the number of buckets required:",
+      "answers": {
+        "a": "25",
+        "b": "20",
+        "c": "15",
+        "d": "10"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
     }
   ]
 }
