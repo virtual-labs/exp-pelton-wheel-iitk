@@ -15,7 +15,7 @@ Your browser does not support the video tag.
 •	When the spear is moving backward the rate of flow of water increases and when it is pushed forward the rate of flow of water decreases.<br><br>
 <b>Runner and Buckets</b><br><br>
 <img src="images/fig4.png"><br><br>
- <i>Fig. 4: Runner and Bucket</i><br><br>
+<i>Fig. 4: Runner and Bucket</i><br><br>
 The runner with buckets is shown in the figure given above.<br>
 •	Runner is a rotating part of the turbine. It is a circular disc on the periphery of which a number of buckets evenly spaced are fixed.<br>
 •	The buckets are made by two hemispherical bowls joined together. Each bucket has a wall in between two hemispherical bowl called splitter.<br>
@@ -28,6 +28,7 @@ The outer covering of this turbine is called casing. The Pelton turbine with the
 •	It prevents the splashing of the water and helps to discharge the water to the trail race. It also acts as a safeguard in the case of an accident occurs.<br>
 •	Cast iron or fabricated steel plates are used to make the casing of the Pelton Turbine.<br><br>
 <b>Breaking Jet</b><br><br>
+•	When the jet of water is completely closed by pushing the spear in the forward direction than the amount of water striking the runner becomes zero. But still, the runner keeps moving due to the inertia of the runner<br>
 <img src="images/fig5.png"><br><br>
  <i>Fig. 5: Breaking Jet</i><br><br>
 •	In order to stop the runner in the shortest possible time, a small nozzle is provided which directs the jet of water at the back of the vanes. This jet of water used to stop the runner of the turbine is called breaking jet.<br>
@@ -64,8 +65,8 @@ It is defined as the ratio of power developed by the runner to the power supplie
 <img src="images/fig6.png"><br><br>
 <b>Mechanical Efficiency</b><br><br>
 It is defined as the ratio of the power obtained from the shaft of the turbine to the power developed by the runner.<br><br>
-These two powers differ by the number of mechanical losses, viz, bearing friction, etc<br><br>
 <img src="images/formula3.png"><br><br>
+These two powers differ by the number of mechanical losses, viz, bearing friction, etc<br><br>
 <b>Volumetric Efficiency</b><br>
 The volumetric efficiency is the ratio of the volume of water actually striking the runner to the volume of water supplied by the jet to the turbine.<br><br>
 <img src="images/formula4.png"><br><br>
