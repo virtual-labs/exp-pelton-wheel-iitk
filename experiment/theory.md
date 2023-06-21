@@ -74,5 +74,5 @@ The volumetric efficiency is the ratio of the volume of water actually striking 
 It is defined as the ratio of the power available at the turbine shaft to the power supplied by the water jet.<br>
 <img src="images/image7.png"><br><br>
 A constant speed is maintained by varying the discharge (by changing spear position) as the load changes. From the measured discharge (Q), head (almost constant), power developed (P) and overall efficiency (ƞ0), are calculated and curves are plotted between efficiency (ƞ0), power (P) and the discharge (Q).<br><br>
-The operating characteristic curves are also known as constant speed characteristic curves. Figure shows the variation of efficiency and power with respect to discharge<br><br>
-<img src="images/image8.png">
+The operating characteristic curves are also known as constant speed characteristic curves. Figure shows the variation of efficiency and power with respect to discharge.<br><br>
+<img src="images/table1_fig.png">
