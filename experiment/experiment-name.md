@@ -1,1 +1,1 @@
-## Experiment name
+<b>Characteristic curves of Pelton wheel</b>
