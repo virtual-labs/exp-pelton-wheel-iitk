@@ -59,10 +59,10 @@ L = total length of penstock<br>
 V = mean flow velocity of water through the penstock<br>
 d = diameter of penstock and<br>
 g = acceleration due to gravity<br><br>
-<b>Efficiencies of Pelton Turbine</b><br>
+<b>5 Efficiencies and characteristic Curves Pelton Turbine</b><br>
 Hydraulic Efficiency:<br>
 It is defined as the ratio of power developed by the runner to the power supplied by the jet at the entrance to the turbine. Mathematically,<br><br>
-<img src="images/fig6.png"><br><br>
+<img src="images/imageb.PNG"><br><br>
 <b>Mechanical Efficiency</b><br><br>
 It is defined as the ratio of the power obtained from the shaft of the turbine to the power developed by the runner.<br><br>
 <img src="images/formula3.png"><br><br>
