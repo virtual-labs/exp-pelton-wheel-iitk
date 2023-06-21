@@ -68,6 +68,23 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
+    },
+    {
+      "question": "5. In Pelton turbine ___________ is defined as ratio between power delivered to runner and power supplied at inlet of turbine.",
+      "answers": {
+        "a": "Mechanical efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Hydraulic efficiency",
+        "d": "Overall efficiency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
     }
   ]
 }
