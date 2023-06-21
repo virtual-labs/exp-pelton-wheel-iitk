@@ -27,7 +27,7 @@ H = Head (of water) acting on Pelton Turbine<br><br>
 Where D<sub>d</sub> = diameter of the drum, D<sub>r</sub> = diameter of rope<br>
 2.	Speed (RPM) = <br>
 3.	W<br>
-4.	Q = K*Sqrt(H) where K = 21.1<br><br>
+4. (Q) = K√h  LPM where K = 21.1<br><br>
 <img src="images/table1.png">
 
 
