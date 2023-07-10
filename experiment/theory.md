@@ -1,4 +1,4 @@
-Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-turbine is a prime example of turning kinetic energy of water into rotational energy consequently to work done. Pelton turbine primarily consist of number of buckets arranged around the circumference of a wheel (Runner).  When a fast flow water jet hits the bucket tangentially, the wheel starts to rotate hence turning kinetic energy into rotational kinetic energy. Here impulsive turbine simply means that instead of moving as a result of a reaction force, water creates some impulse on the turbine to get it to move.<br><br>          
+#Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-turbine is a prime example of turning kinetic energy of water into rotational energy consequently to work done. Pelton turbine primarily consist of number of buckets arranged around the circumference of a wheel (Runner).  When a fast flow water jet hits the bucket tangentially, the wheel starts to rotate hence turning kinetic energy into rotational kinetic energy. Here impulsive turbine simply means that instead of moving as a result of a reaction force, water creates some impulse on the turbine to get it to move.<br><br>          
 <video width="320" height="240" controls>
 <source src="images/vid1.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -74,5 +74,5 @@ The volumetric efficiency is the ratio of the volume of water actually striking 
 It is defined as the ratio of the power available at the turbine shaft to the power supplied by the water jet.<br>
 <img src="images/image7.png"><br><br>
 A constant speed is maintained by varying the discharge (by changing spear position) as the load changes. From the measured discharge (Q), head (almost constant), power developed (P) and overall efficiency (ƞ0), are calculated and curves are plotted between efficiency (ƞ0), power (P) and the discharge (Q).<br><br>
-The operating characteristic curves are also known as constant speed characteristic curves. Figure shows the variation of efficiency and power with respect to discharge<br><br>
-<img src="images/image8.png">
+The operating characteristic curves are also known as constant speed characteristic curves. Figure shows the variation of efficiency and power with respect to discharge.<br><br>
+<img src="images/table1_fig.PNG">
