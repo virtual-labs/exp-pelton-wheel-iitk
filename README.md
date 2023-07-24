@@ -14,11 +14,11 @@ Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-tu
 :--|:--|
 <b> Institute | <b>  IIT Kanpur
 <b> Email id|     <b>  jrkumar@iitk.ac.in, adsingh@iitk.ac.in
-<b> Department |  Mechanical Engineering
+<b> Department |   Mechanical Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Gaurav Chaudhary   | Student | Mechanical Engineering |REC Banda| gaurav2013c@gmail.com
+1 | Gaurav Chaudhary   | faculty | Mechanical Engineering |REC Banda| gaurav2013c@gmail.com
 2 | Mubashir Ali | Faculty | Mechanical Engineering | IIT Kanpur | mali@iitk.ac.in
