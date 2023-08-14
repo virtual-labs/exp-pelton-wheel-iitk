@@ -1,8 +1,21 @@
-Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-turbine is a prime example of turning kinetic energy of water into rotational energy consequently to work done. Pelton turbine primarily consist of number of buckets arranged around the circumference of a wheel (Runner).  When a fast flow water jet hits the bucket tangentially, the wheel starts to rotate hence turning kinetic energy into rotational kinetic energy. Here impulsive turbine simply means that instead of moving as a result of a reaction force, water creates some impulse on the turbine to get it to move.<br><br>          
-<video width="320" height="240" controls>
+Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-turbine is a prime example of turning kinetic energy of water into rotational energy consequently to work done. Pelton turbine primarily consist of number of buckets arranged around the circumference of a wheel (Runner).  When a fast flow water jet hits the bucket tangentially, the wheel starts to rotate hence turning kinetic energy into rotational kinetic energy. Here impulsive turbine simply means that instead of moving as a result of a reaction force, water creates some impulse on the turbine to get it to move.<br><br>    
+ <video width="500" height="240" controls>
+  <source src="images/vid1.mp4" type="video/mp4">
+  Your browser does not support the video tag</video>
+<video src="images/vid1.mp4" controls="controls" style="max-width: 730 px;">
+</video>
+<video width="320" height="240" controls="controls">
 <source src="images/vid1.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> <br><br>
+<video width="320" height="240" controls>
+  <source src="images/vid1.mp4" type="video/mp4">
+  <source src="images/vid1.mp4" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+<video src="images/vid1.mp4" controls="controls" style="max-width: 730 px;">
+</video>
+
 <b>Parts of a Pelton Turbine</b><br>
 <img src="images/fig2.png"><br>
 <i>Fig. 2: Parts of Pelton Turbine</i><br><br>
