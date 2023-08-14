@@ -2,20 +2,7 @@ Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-tu
  <video width="500" height="240" controls>
   <source src="images/vid1.mp4" type="video/mp4">
   Your browser does not support the video tag</video>
-<video src="images/vid1.mp4" controls="controls" style="max-width: 730 px;">
-</video>
-<video width="320" height="240" controls="controls">
-<source src="images/vid1.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video> <br><br>
-<video width="320" height="240" controls>
-  <source src="images/vid1.mp4" type="video/mp4">
-  <source src="images/vid1.mp4" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
-<video src="images/vid1.mp4" controls="controls" style="max-width: 730 px;">
-</video>
-
+ <br><br>
 <b>Parts of a Pelton Turbine</b><br>
 <img src="images/fig2.png"><br>
 <i>Fig. 2: Parts of Pelton Turbine</i><br><br>
