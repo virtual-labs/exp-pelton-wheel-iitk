@@ -6,8 +6,8 @@ Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-tu
 Your browser does not support the video tag.
 </video> <br><br>
 <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+  <source src="images/vid1.mp4" type="video/mp4">
+  <source src="images/vid1.mp4" type="video/ogg">
   Your browser does not support the video tag.
 </video>
 <video src="images/vid1.mp4" controls="controls" style="max-width: 730 px;">
