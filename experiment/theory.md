@@ -1,27 +1,12 @@
 Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-turbine is a prime example of turning kinetic energy of water into rotational energy consequently to work done. Pelton turbine primarily consist of number of buckets arranged around the circumference of a wheel (Runner).  When a fast flow water jet hits the bucket tangentially, the wheel starts to rotate hence turning kinetic energy into rotational kinetic energy. Here impulsive turbine simply means that instead of moving as a result of a reaction force, water creates some impulse on the turbine to get it to move.<br><br>      
-<video src="images/vid1.mp4" controls="controls" style="max-width: 730px;">
+<video src="images/vid1.mp4" controls="controls" style="max-width: 730 px;">
 </video>
 <video width="320" height="240" controls>
 <source src="images/vid1.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> <br><br>
-<video width="630" height="300" src="images/vid1.mp4"></video>
-<div class="video">
-  <video autoplay controls id="video_intro" poster="/img/loading-vid.png" width="640" height="360">
-    <source src="images/vid1.mp4" type="video/mp4" />
-    <source src="images/vid1.mp4" type="video/webm" />
-    <object class="vid-object" type="application/x-shockwave-flash" data="images/vid1.mp4" width="640" height="360">
-      <param name="allowfullscreen" value="true">
-      <param name="allowscriptaccess" value="always">
-      <param name="flashvars" value="file=images/vid1.mp4&amp;autostart=true">
-      <param name="wmode" value="opaque">
-      <!--[if IE]><param name="movie" value="images/vid1.mp4"><![endif]-->
-      <img src="/img/logo.jpg" alt="LyondellBasell">
-      <p>Your browser can’t play HTML5 video. <a href="images/vid1.mp4">
-  Download it</a> instead.</p>
-    </object>
-  </video>
-</div><!-- /.video -->
+
+
 <b>Parts of a Pelton Turbine</b><br>
 <img src="images/fig2.png"><br>
 <i>Fig. 2: Parts of Pelton Turbine</i><br><br>
