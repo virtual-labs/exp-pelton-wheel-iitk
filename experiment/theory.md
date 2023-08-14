@@ -4,7 +4,22 @@ Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-tu
 Your browser does not support the video tag.
 </video> <br><br>
 <video width="630" height="300" src="images/vid1.mp4"></video>
-
+<div class="video">
+  <video autoplay controls id="video_intro" poster="/img/loading-vid.png" width="640" height="360">
+    <source src="images/vid1.mp4" type="video/mp4" />
+    <source src="images/vid1.mp4" type="video/webm" />
+    <object class="vid-object" type="application/x-shockwave-flash" data="images/vid1.mp4" width="640" height="360">
+      <param name="allowfullscreen" value="true">
+      <param name="allowscriptaccess" value="always">
+      <param name="flashvars" value="file=images/vid1.mp4&amp;autostart=true">
+      <param name="wmode" value="opaque">
+      <!--[if IE]><param name="movie" value="images/vid1.mp4"><![endif]-->
+      <img src="/img/logo.jpg" alt="LyondellBasell">
+      <p>Your browser can’t play HTML5 video. <a href="images/vid1.mp4">
+  Download it</a> instead.</p>
+    </object>
+  </video>
+</div><!-- /.video -->
 <b>Parts of a Pelton Turbine</b><br>
 <img src="images/fig2.png"><br>
 <i>Fig. 2: Parts of Pelton Turbine</i><br><br>
