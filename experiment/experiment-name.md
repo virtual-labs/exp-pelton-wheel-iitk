@@ -1,1 +1,1 @@
-<b>Characteristic curves of Pelton wheel</b>
+### Characteristic curves of Pelton wheel
