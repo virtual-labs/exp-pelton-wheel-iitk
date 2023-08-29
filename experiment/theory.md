@@ -46,13 +46,13 @@ The speed of the turbine runner is required to be maintained constant so that th
 <b>Head Types</b><br><br>
 <img src="images/fig6.png"><br><br>
  <i>Fig. 6: Various Head Types</i><br><br>
-<b>Gross Head (Hg):</b>
-The gross head is the difference between the water level at the reservoir and the water level at the tailrace. It is denoted by Hg.
+<b>Gross Head (H<sub>g</sub>):</b>
+The gross head is the difference between the water level at the reservoir and the water level at the tailrace. It is denoted by H<sub>g</sub>.
 Net or Effective Head (H):<br>
 <b>Net or Effective Head (H):</b><br>
-The head available at the inlet of the turbine is known as the net or effective head. It is denoted by H and is given by H=Hg-hf    
+The head available at the inlet of the turbine is known as the net or effective head. It is denoted by H and is given by <b>H=H<sub>g</sub>-h<sub>f</sub></b>  
 <img src="images/hf_formula.png"><br><br>
-where hf = total loss of head due to friction during the transit of water from headrace to tailrace and is given by:<br><br>
+where h<sub>f</sub> = total loss of head due to friction during the transit of water from headrace to tailrace and is given by:<br><br>
 Where,<br>
 f = coefficient of friction of penstock depending on the type of material of penstock<br>
 L = total length of penstock<br>
@@ -60,19 +60,19 @@ V = mean flow velocity of water through the penstock<br>
 d = diameter of penstock and<br>
 g = acceleration due to gravity<br><br>
 <b>5 Efficiencies and characteristic Curves Pelton Turbine</b><br>
-Hydraulic Efficiency:<br>
+<b>Hydraulic Efficiency:</b><br>
 It is defined as the ratio of power developed by the runner to the power supplied by the jet at the entrance to the turbine. Mathematically,<br><br>
-<img src="images/imageb.PNG"><br><br>
+<img src="images/HE.PNG"><br><br>
 <b>Mechanical Efficiency</b><br><br>
 It is defined as the ratio of the power obtained from the shaft of the turbine to the power developed by the runner.<br><br>
-<img src="images/formula3.png"><br><br>
+<img src="images/F1.PNG"><br><br>
 These two powers differ by the number of mechanical losses, viz, bearing friction, etc<br><br>
 <b>Volumetric Efficiency</b><br>
 The volumetric efficiency is the ratio of the volume of water actually striking the runner to the volume of water supplied by the jet to the turbine.<br><br>
-<img src="images/formula4.png"><br><br>
+<img src="images/F2.PNG"><br><br>
 <b>Overall Efficiency</b><br>
 It is defined as the ratio of the power available at the turbine shaft to the power supplied by the water jet.<br>
-<img src="images/image7.png"><br><br>
+<img src="images/F3.PNG"><br><br>
 A constant speed is maintained by varying the discharge (by changing spear position) as the load changes. From the measured discharge (Q), head (almost constant), power developed (P) and overall efficiency (ƞ0), are calculated and curves are plotted between efficiency (ƞ0), power (P) and the discharge (Q).<br><br>
 The operating characteristic curves are also known as constant speed characteristic curves. Figure shows the variation of efficiency and power with respect to discharge.<br><br>
-<img src="images/table1_fig.png">
+<img src="images/F4.PNG">
