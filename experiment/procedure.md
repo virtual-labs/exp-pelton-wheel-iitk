@@ -1,4 +1,4 @@
-A constant speed is maintained by varying the discharge (by changing spear position) as the load changes. From the measured discharge (Q), head (almost constant), power developed (P) and overall efficiency (ƞo), are calculated and curves are plotted between efficiency (ƞo), power (P) and the discharge (Q).<br><br>
+A constant speed is maintained by varying the discharge (by changing spear position) as the load changes. From the measured discharge (Q), head (almost constant), power developed (P) and overall efficiency (ƞ<sub>o</sub>), are calculated and curves are plotted between efficiency (ƞo), power (P) and the discharge (Q).<br><br>
 Formulae –<br><br>
 1. Discharge Q= k √h  LPM<br>
 K is a constant depends on venturi meter dimensions<br><br>
@@ -14,6 +14,7 @@ Q = Discharge in m<sup>3</sup>/s (as calculated at 1)<br>
 H = Head (of water) acting on Pelton Turbine<br><br>
 4.	Overall Efficiency<br> 
 ƞ<sub>o</sub> = B.P/W.P<br><br>
+
 <b>Procedure</b><br><br>
 1.	Change the load on the Hanger (W) and note the reading of the spring balance (S)<br>
 2.	Adjust delivery valve of centrifugal pump to keep head (H) same and adjust spear position to keep RPM same<br>
