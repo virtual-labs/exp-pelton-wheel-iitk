@@ -1,5 +1,5 @@
-A constant speed is maintained by varying the discharge (by changing spear position) as the load changes. From the measured discharge (Q), head (almost constant), power developed (P) and overall efficiency (ƞ<sub>o</sub>), are calculated and curves are plotted between efficiency (ƞo), power (P) and the discharge (Q).<br><br>
-Formulae –<br><br>
+A constant speed is maintained by varying the discharge (by changing spear position) as the load changes. From the measured discharge (Q), head (almost constant), power developed (P) and overall efficiency (ƞ<sub>o</sub>), are calculated and curves are plotted between efficiency (ƞ<sub>o</sub>), power (P) and the discharge (Q).<br><br>
+<b>Formulae –</b><br><br>
 1. Discharge Q= k √h  LPM<br>
 K is a constant depends on venturi meter dimensions<br><br>
 2.	Shaft Power/Brake Power developed (B.P)<br>
