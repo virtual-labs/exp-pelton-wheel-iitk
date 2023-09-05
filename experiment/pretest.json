@@ -85,6 +85,91 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "6) Which component is not provided to Pelton wheel turbine?",
+      "answers": {
+        "a": "Jet",
+        "b": "Penstock",
+        "c": "Draft tube",
+        "d": "Casing"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7) The hydraulic efficiency of Pelton turbine will be maximum when blade velocity is equal to _______",
+      "answers": {
+        "a": "V/2",
+        "b": "V/3",
+        "c": "V/4",
+        "d": "V/5"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8) In Pelton turbine ___________ is defined as ratio between power delivered to runner and power supplied at inlet of turbine.",
+      "answers": {
+        "a": "Mechanical efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Hydraulic efficiency",
+        "d": "Overall efficiency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9) Among the following which turbine has least efficiency?",
+      "answers": {
+        "a": "Pelton turbine",
+        "b": "Kaplan turbine",
+        "c": "Francis turbine",
+        "d": "Propeller turbine"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10) The power supplied at inlet of turbine in S.I units is known as_____________",
+      "answers": {
+        "a": "Shaft power",
+        "b": "Runner power",
+        "c": "Water power",
+        "d": "Total power"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
     }
   ]
 }
