@@ -31,7 +31,7 @@ The outer covering of this turbine is called casing. The Pelton turbine with the
 •	When the jet of water is completely closed by pushing the spear in the forward direction than the amount of water striking the runner becomes zero. But still, the runner keeps moving due to the inertia of the runner<br>
 <img src="images/fig5.png"><br><br>
  <i>Fig. 5: Breaking Jet</i><br><br>
-•	In order to stop the runner in the shortest possible time, a small nozzle is provided which directs the jet of water at the back of the vanes. This jet of water used to stop the runner of the turbine is called breaking jet.<br>
+<P>•	In order to stop the runner in the shortest possible time, a small nozzle is provided which directs the jet of water at the back of the vanes. This jet of water used to stop the runner of the turbine is called breaking jet.</P><br>
 •	Additionally, in case of emergency a deflector is also provided in spear assembly which diverts the water jet away from the buckets and reduces the speed of the runner without releasing the pressure.<br><br>
 <b>Penstock</b><br>
 A penstock is a pipe that conveys the flow from the storage to the turbine. The potential energy of water at the storage tank is converted into kinetic energy at the turbine via the penstock pipe.<br><br>
