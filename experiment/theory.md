@@ -3,17 +3,17 @@ Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-tu
   <source src="images/vid1.mp4" type="video/mp4">
   Your browser does not support the video tag</video>
  <br><br>
-<b>Parts of a Pelton Turbine</b><br>
+<b><U>Parts of a Pelton Turbine</U></b><br>
 <img src="images/fig2.png"><br>
 <i>Fig. 2: Parts of Pelton Turbine</i><br><br>
-<b>Nozzle and Flow Regulating Assembly (Spear)</b><br>
+<b><U>Nozzle and Flow Regulating Assembly (Spear)</U></b><br>
 <img src="images/fig3.png"><br><br>
 <i>Fig. 3: Flow Regulation Assembly</i><br><br>
 •	Nozzle is used to increase the kinetic energy of the water that is going to strike the buckets or vanes attached to the runner<br>
 •	The quantity of water that strikes the buckets is controlled by spear. The spear is installed inside the nozzle and regulates the flow ofwater that is going to strike on the vanes of the runner. A nozzle containing spear is shown in the figure given above<br>
 •	The spear is a conical needle present in the nozzle. It is operated by a hand wheel or automatically in an axial direction<br>
 •	When the spear is moving backward the rate of flow of water increases and when it is pushed forward the rate of flow of water decreases.<br><br>
-<b>Runner and Buckets</b><br><br>
+<b><U>Runner and Buckets</U></b><br><br>
 <img src="images/fig4.png"><br><br>
 <i>Fig. 4: Runner and Bucket</i><br><br>
 The runner with buckets is shown in the figure given above.<br>
@@ -23,33 +23,33 @@ The runner with buckets is shown in the figure given above.<br>
 •	The buckets are designed in such a way that the jet of water strikes the buckets, deflected through 160<sup>o</sup> to 170<sup>o</sup><br>
 •	The buckets of the Pelton turbine are made up of cast iron, cast steel bronze or stainless steel<br>
 •	An undercut is provided on bottom portion of buckets. This makes sure that water jet will not get interfered by other incoming buckets.<br><br>
-<b>Casing</b><br>
+<b><U>Casing</U></b><br>
 The outer covering of this turbine is called casing. The Pelton turbine with the casing is shown in the Fig. 2.<br>
 •	It prevents the splashing of the water and helps to discharge the water to the trail race. It also acts as a safeguard in the case of an accident occurs.<br>
 •	Cast iron or fabricated steel plates are used to make the casing of the Pelton Turbine.<br><br>
-<b>Breaking Jet</b><br><br>
+<b><U>Breaking Jet</U></b><br><br>
 •	When the jet of water is completely closed by pushing the spear in the forward direction than the amount of water striking the runner becomes zero. But still, the runner keeps moving due to the inertia of the runner<br>
 <img src="images/fig5.png"><br><br>
  <i>Fig. 5: Breaking Jet</i><br><br>
-<P>•	In order to stop the runner in the shortest possible time, a small nozzle is provided which directs the jet of water at the back of the vanes. This jet of water used to stop the runner of the turbine is called breaking jet.</P><br>
+<P><U>•	In order to stop the runner in the shortest possible time, a small nozzle is provided which directs the jet of water at the back of the vanes. This jet of water used to stop the runner of the turbine is called breaking jet.</U></P><br>
 •	Additionally, in case of emergency a deflector is also provided in spear assembly which diverts the water jet away from the buckets and reduces the speed of the runner without releasing the pressure.<br><br>
-<b>Penstock</b><br>
+<b><U>Penstock</U></b><br>
 A penstock is a pipe that conveys the flow from the storage to the turbine. The potential energy of water at the storage tank is converted into kinetic energy at the turbine via the penstock pipe.<br><br>
-<b>Governor Mechanism</b><br>
+<b><U>Governor Mechanism</U></b><br>
 The speed of the turbine runner is required to be maintained constant so that the electric generator can be coupled directly to the turbine. Therefore, a device called governor is used to measure and regulate the speed of the turbine runner.<br><br>
-<b>Working of Pelton wheel:</b><br>
+<b><U>Working of Pelton wheel:</U></b><br>
 •	The water stored at a high head is made to flow through the penstock and reaches the nozzle of the Pelton turbine.<br>
 •	The nozzle increases the K.E. of the water and directs the water in the form of a jet.<br>
 •	The jet of water from the nozzle strikes the buckets (vanes) of the runner. This made the runner to rotate at very high speed.<br>
 •	The quantity of water striking the vanes or buckets is controlled by the needle valve present inside the nozzle.<br>
 •	The generator is attached to the shaft of the runner which converts the mechanical energy of the runner into electrical energy.<br><br>
-<b>Head Types</b><br><br>
+<b><U>Head Types</U></b><br><br>
 <img src="images/fig6.png"><br><br>
  <i>Fig. 6: Various Head Types</i><br><br>
-<b>Gross Head (H<sub>g</sub>):</b>
+<b><U>Gross Head (H<sub>g</sub>):</U></b>
 The gross head is the difference between the water level at the reservoir and the water level at the tailrace. It is denoted by H<sub>g</sub>.
 Net or Effective Head (H):<br>
-<b>Net or Effective Head (H):</b><br>
+<b><U>Net or Effective Head (H):</U></b><br>
 The head available at the inlet of the turbine is known as the net or effective head. It is denoted by H and is given by <b>H=H<sub>g</sub>-h<sub>f</sub></b>  
 <img src="images/hf_formula.png"><br><br>
 where h<sub>f</sub> = total loss of head due to friction during the transit of water from headrace to tailrace and is given by:<br><br>
@@ -59,18 +59,18 @@ L = total length of penstock<br>
 V = mean flow velocity of water through the penstock<br>
 d = diameter of penstock and<br>
 g = acceleration due to gravity<br><br>
-<b>5 Efficiencies and characteristic Curves Pelton Turbine</b><br>
-<b>Hydraulic Efficiency:</b><br>
+<b><U>5 Efficiencies and characteristic Curves Pelton Turbine</U></b><br>
+<b><U>Hydraulic Efficiency:</U></b><br>
 It is defined as the ratio of power developed by the runner to the power supplied by the jet at the entrance to the turbine. Mathematically,<br><br>
 <img src="images/HE.PNG"><br><br>
-<b>Mechanical Efficiency</b><br><br>
+<b><U>Mechanical Efficiency</U></b><br><br>
 It is defined as the ratio of the power obtained from the shaft of the turbine to the power developed by the runner.<br><br>
 <img src="images/F1.PNG"><br><br>
 These two powers differ by the number of mechanical losses, viz, bearing friction, etc<br><br>
-<b>Volumetric Efficiency</b><br>
+<b><U>Volumetric Efficiency</U></b><br>
 The volumetric efficiency is the ratio of the volume of water actually striking the runner to the volume of water supplied by the jet to the turbine.<br><br>
 <img src="images/F2.PNG"><br><br>
-<b>Overall Efficiency</b><br>
+<b><U>Overall Efficiency</U></b><br>
 It is defined as the ratio of the power available at the turbine shaft to the power supplied by the water jet.<br>
 <img src="images/F3.PNG"><br><br>
 A constant speed is maintained by varying the discharge (by changing spear position) as the load changes. From the measured discharge (Q), head (almost constant), power developed (P) and overall efficiency (ƞ0), are calculated and curves are plotted between efficiency (ƞ0), power (P) and the discharge (Q).<br><br>
