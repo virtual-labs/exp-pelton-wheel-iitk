@@ -31,7 +31,7 @@ The outer covering of this turbine is called casing. The Pelton turbine with the
 •	When the jet of water is completely closed by pushing the spear in the forward direction than the amount of water striking the runner becomes zero. But still, the runner keeps moving due to the inertia of the runner<br>
 <img src="images/fig5.png"><br><br>
  <i>Fig. 5: Breaking Jet</i><br><br>
-<P><U>•	In order to stop the runner in the shortest possible time, a small nozzle is provided which directs the jet of water at the back of the vanes. This jet of water used to stop the runner of the turbine is called breaking jet.</U></P><br>
+<P>•	In order to stop the runner in the shortest possible time, a small nozzle is provided which directs the jet of water at the back of the vanes. This jet of water used to stop the runner of the turbine is called breaking jet.</P><br>
 •	Additionally, in case of emergency a deflector is also provided in spear assembly which diverts the water jet away from the buckets and reduces the speed of the runner without releasing the pressure.<br><br>
 <b><U>Penstock</U></b><br>
 A penstock is a pipe that conveys the flow from the storage to the turbine. The potential energy of water at the storage tank is converted into kinetic energy at the turbine via the penstock pipe.<br><br>
@@ -48,7 +48,7 @@ The speed of the turbine runner is required to be maintained constant so that th
  <i>Fig. 6: Various Head Types</i><br><br>
 <b><U>Gross Head (H<sub>g</sub>):</U></b>
 The gross head is the difference between the water level at the reservoir and the water level at the tailrace. It is denoted by H<sub>g</sub>.
-Net or Effective Head (H):<br>
+Net or Effective Head (H):<br><br>
 <b><U>Net or Effective Head (H):</U></b><br>
 The head available at the inlet of the turbine is known as the net or effective head. It is denoted by H and is given by <b>H=H<sub>g</sub>-h<sub>f</sub></b>  
 <img src="images/hf_formula.png"><br><br>
@@ -59,7 +59,7 @@ L = total length of penstock<br>
 V = mean flow velocity of water through the penstock<br>
 d = diameter of penstock and<br>
 g = acceleration due to gravity<br><br>
-<b><U>5 Efficiencies and characteristic Curves Pelton Turbine</U></b><br>
+<b><U> Efficiencies and characteristic Curves Pelton Turbine</U></b><br>
 <b><U>Hydraulic Efficiency:</U></b><br>
 It is defined as the ratio of power developed by the runner to the power supplied by the jet at the entrance to the turbine. Mathematically,<br><br>
 <img src="images/HE.PNG"><br><br>

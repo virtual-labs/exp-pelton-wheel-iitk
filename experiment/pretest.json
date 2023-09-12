@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6) Which component is not provided to Pelton wheel turbine?",
+      "question": "6. Which component is not provided to Pelton wheel turbine?",
       "answers": {
         "a": "Jet",
         "b": "Penstock",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7) The hydraulic efficiency of Pelton turbine will be maximum when blade velocity is equal to _______",
+      "question": "7. The hydraulic efficiency of Pelton turbine will be maximum when blade velocity is equal to _______",
       "answers": {
         "a": "V/2",
         "b": "V/3",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "8) In Pelton turbine ___________ is defined as ratio between power delivered to runner and power supplied at inlet of turbine.",
+      "question": "8. In Pelton turbine ___________ is defined as ratio between power delivered to runner and power supplied at inlet of turbine.",
       "answers": {
         "a": "Mechanical efficiency",
         "b": "Volumetric efficiency",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9) Among the following which turbine has least efficiency?",
+      "question": "9. Among the following which turbine has least efficiency?",
       "answers": {
         "a": "Pelton turbine",
         "b": "Kaplan turbine",
@@ -155,7 +155,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "10) The power supplied at inlet of turbine in S.I units is known as_____________",
+      "question": "10. The power supplied at inlet of turbine in S.I units is known as_____________",
       "answers": {
         "a": "Shaft power",
         "b": "Runner power",
