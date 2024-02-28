@@ -5,7 +5,8 @@ var valvePositioning = document.querySelector("#flow-rate-slider")
 var svg=document.getElementById("Layer_1");
 var weightSelection = document.getElementById("weightSelect")
 var count=0
-
+window.appData = window.appData || {};
+window.appData.powerFlag = false;
 
 // get the id for the flow of water
 var w1=document.getElementById("Water_1")
@@ -38,11 +39,20 @@ function power(){
         count=1
         waterFlow1()
 
+    // }else{
+    //     enableButton.style.backgroundColor = "#ca2222"
+    //     document.getElementById("steps").innerHTML = "Step1: Turn Power On"
+    //     enableButton.textContent = "POWER ON"
+    //     count = 0 
+    // }
+
     }else{
-        enableButton.style.backgroundColor = "#ca2222"
-        document.getElementById("steps").innerHTML = "Step1: Turn Power On"
-        enableButton.textContent = "POWER ON"
-        count = 0 
+        if(!window.appData.powerFlag){
+            alert("Please complete the experiment to turn power off!");
+            count=1
+        }else{
+            location.reload()
+        }
     }
 }
 
@@ -337,17 +347,6 @@ function waterFlow10(){
             rpmText.textContent = "1200"
             weightSelection.disabled = false;
             document.getElementById("steps").innerHTML = "Select the value of brake weight."
-
-            // if(valvePositioning.value==1){
-            //     manometerText.textContent = "102 mm Hg"
-            // }
-            // if(valvePositioning.value==2){
-            //     manometerText.textContent = "146 mm Hg"
-            // }if(valvePositioning.value==3){
-            //     manometerText.textContent = "210 mm Hg"
-            // }
-
-            // purzeButton.disabled = false;
         }, 1000);
     // }
     // }
@@ -371,29 +370,34 @@ styleSheet.insertRule(`
 
 }
 
+
 function updateValvePositioning(){
+    moveRight()
     if(valvePositioning.value == 1){
-        headText.textContent="0.1"
+        headText.textContent="26"
         qText.textContent = "3.251 X 10"
-        document.getElementById("steps").innerHTML = "Set the value of spear positioning for 5kg brake weight to 1. "
+        document.getElementById("steps").innerHTML = "Now, again change the value of brake weight. "
     }if(valvePositioning.value == 2){
-        headText.textContent="0.2"
+        headText.textContent="32"
         qText.textContent = "4.597 X 10"
-        document.getElementById("steps").innerHTML = "Set the value of spear positioning for 5kg brake weight to 1. "
+        document.getElementById("steps").innerHTML = "Now, again change the value of brake weight. "
     }if(valvePositioning.value == 3){
-        headText.textContent="0.1"
+        headText.textContent="37"
         qText.textContent = "3.251 X 10"
-        document.getElementById("steps").innerHTML = "Set the value of spear positioning for 5kg brake weight to 1. "
+        document.getElementById("steps").innerHTML = "Now, again change the value of brake weight. "
     }if(valvePositioning.value == 4){
-        headText.textContent="0.2"
+        headText.textContent="42"
         qText.textContent = "4.597 X 10"
-        document.getElementById("steps").innerHTML = "Set the value of spear positioning for 5kg brake weight to 1. "
+        document.getElementById("steps").innerHTML = "Now, again change the value of brake weight. "
     }if(valvePositioning.value == 5){
-        headText.textContent="0.2"
-        qText.textContent = "5.597 X 10"
-        document.getElementById("steps").innerHTML = "Set the value of spear positioning for 5kg brake weight to 1. "
+        headText.textContent="41"
+        qText.textContent = "5.597 X 10"    
+        document.getElementById("steps").innerHTML = "Now, again change the value of brake weight. "
+    }if(valvePositioning.value == 0){
+        document.getElementById("steps").innerHTML = "Please select the value of spear positioning, according to instructions."
     }
     valvePositioning.disabled = true;
+    weightSelection.disabled = false;
     rpmText.textContent = "1000"
 }
 
@@ -404,32 +408,32 @@ function updateValvePositioning(){
 function updateBrakeWeight(){
     var selectedWeight = weightSelection.value;
     // w1Text = selectedWeight;
-
+    moveLeft()
     if(selectedWeight == 5){
         rpmText.textContent = "900"
         w1Text.textContent = "5.0";
         w2Text.textContent = "0.5";
         document.getElementById("steps").innerHTML = "Set the value of spear positioning for 5kg brake weight to 1. "
     }if(selectedWeight == 7){
-        rpmText.textContent = "800"
+        rpmText.textContent = "850"
         w2Text.textContent = "0.9"; 
         w1Text.textContent = "7.0";
         document.getElementById("steps").innerHTML = "Set the value of spear positioning for 7kg brake weight to 2."
 
     }if(selectedWeight == 9){
-        rpmText.textContent = "700"
+        rpmText.textContent = "800"
         w2Text.textContent = "1.4";
         w1Text.textContent = "9.0";
         document.getElementById("steps").innerHTML = "Set the value of spear positioning for 9kg brake weight to 3."
 
     }if(selectedWeight == 11){
-        rpmText.textContent = "600"
+        rpmText.textContent = "750"
         w2Text.textContent = "2.2";
         w1Text.textContent = "11.0";
         document.getElementById("steps").innerHTML = "Set the value of spear positioning for 11kg brake weight to 4."
 
     }if(selectedWeight == 13){
-        rpmText.textContent = "500"
+        rpmText.textContent = "750"
         w2Text.textContent = "3.0";
         w1Text.textContent = "13.0";
         document.getElementById("steps").innerHTML = "Set the value of spear positioning for 13kg brake weight to 5."
@@ -437,9 +441,20 @@ function updateBrakeWeight(){
     }if(selectedWeight == 0){
         rpmText.textContent = "0"
         // w2Text = "3";
-        document.getElementById("steps").innerHTML = "Set the value of spear positioning greater than 0."
+        document.getElementById("steps").innerHTML = "Set the value of brake weight greater than 0."
     }
     valvePositioning.disabled= false;
     weightSelection.disabled = true;
 
 }
+
+let currentPosition = 0;
+        const moveLeft = () => {
+            currentPosition -= 10; // Adjust this value based on how much you want to move
+            document.getElementById('movingGroup').setAttribute('transform', `translate(${currentPosition}, 0)`);
+        }
+
+        const moveRight = () => {
+            currentPosition += 10; // Adjust this value based on how much you want to move
+            document.getElementById('movingGroup').setAttribute('transform', `translate(${currentPosition}, 0)`);
+        }
