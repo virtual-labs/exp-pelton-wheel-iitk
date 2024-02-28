@@ -234,7 +234,7 @@
 <rect id="Water_1" x="844" y="862" class="st3" width="0" height="19.4"  />
 <g transform="scale(1,-1) ">
 	<rect id="Water_2_00000178177592295888132300000003812885317886448053_" x="982.4" y="-857" class="st3" width="19.8" height="22.6" opacity="0"/>
-	<rect id="Water_3" x="982.4" y="-640.8" class="st3" width="19.8" height="285.6" opacity="0"  />
+	<rect id="Water_3" x="982.4" y="-640.8" class="st3" width="19.8" height="285.6" opacity="0" />
 	<rect id="Water_4_00000018221326492914578470000014473808141724045220_" x="982.4" y="-345.1" class="st3" width="19.8" height="137" opacity="0" />
 </g>
 
@@ -245,8 +245,8 @@
 	<stop  offset="0.8861" style="stop-color:#EFFBFF"/>
 	<stop  offset="1" style="stop-color:#FFFFFF"/>
 </linearGradient>
-<polygon id="Breaking_Jet_Water" style="fill:url(#Breaking_Jet_Water_00000119081606218352859420000003197387846355680947_);" points="
-	403,509.9 460.4,550.9 456,557.1 398.6,516.1 "/>
+<!-- <polygon id="Breaking_Jet_Water" style="fill:url(#Breaking_Jet_Water_00000119081606218352859420000003197387846355680947_);" points="
+	403,509.9 460.4,550.9 456,557.1 398.6,516.1 "/> -->
 <ellipse id="Suction_Pipe_Opening" class="st3" cx="844" cy="871.7" rx="2.9" ry="9.7"/>
 <circle id="Suction_Pipe_Corner" class="st5" cx="989.8" cy="869.1" r="17.4"/>
 <g>
@@ -281,7 +281,7 @@
 <g class="st7">
 	<g>
 		
-			<image style="overflow:visible;enable-background:new    ;" width="1071" height="1244" xlink:href="B789F003.png"  transform="matrix(0.2401 0 0 0.2401 335.6666 432.7272)">
+	<image style="overflow:visible;enable-background:new    ;" width="1071" height="1244" xlink:href="B789F003.png"  transform="matrix(0.2401 0 0 0.2401 335.6666 432.7272)"> -->
 		</image>
 	</g>
 </g>
@@ -526,7 +526,7 @@
 		</image>
 	</g>
 </g>
-<g>
+<g id="movingGroup">
 	<path class="st14" d="M399.7,665.5l-129.4-3.6v8.3l129.4-3.6C400.7,666.5,400.7,665.5,399.7,665.5z"/>
 	<g>
 		<g>
@@ -701,8 +701,8 @@
 <g id="Casing" class="st45">
 	<g>
 		
-			<!-- <image style="overflow:visible;enable-background:new    ;" width="940" height="1213" xlink:href="B789F006.png"  transform="matrix(0.2402 0 0 0.2402 335.3493 439.7337)"  opacity="0">
-		</image> -->
+			<image style="overflow:visible;enable-background:new    ;" width="940" height="1213" xlink:href="B789F006.png"  transform="matrix(0.2402 0 0 0.2402 335.3493 439.7337)"  >
+		</image>
 	</g>
 </g>
 <rect id="Water_6_00000168117311549382392820000000397660189640725679_" x="251.3" y="199.2" class="st3" width="0" height="19.4"/>
@@ -1003,16 +1003,12 @@
 											<math xmlns="http://www.w3.org/1998/Math/MathML" style="  font-size:20px; font-weight: bold;">
 												<msub>
 													<mi> W.P</mi>
-													<!-- <mi>d</mi> -->
 													</msub>
 													<mo>=</mo>
 													<mfrac>
 													<msub>
 														<mi>wQH</mi>
 														<mrow class="MJX-TeXAtom-ORD">
-														<!-- <mi>a</mi>
-														<mi>c</mi>
-														<mi>t</mi> -->
 														</mrow>
 													</msub>
 	
@@ -1020,16 +1016,8 @@
 													<msub>
 														<mi>1000</mi>
 														<mrow class="MJX-TeXAtom-ORD">
-														<!-- <mi>t</mi>
-														<mi>h</mi> -->
 														</mrow>
 													</msub>
-													<!-- <msub>
-														<mi>KW</mi>
-														<mrow class="MJX-TeXAtom-ORD">
-													
-														</mrow>
-													</msub> -->
 									
 													</mfrac>
 	
@@ -1058,7 +1046,7 @@
 
 								</div>		
 
-								<table id="tab1" border="1" width="50%" >
+								<table id="tab1" class="observationTable" border="1" width="50%" >
 									<tr>
 										<th colspan="13" style="font-size: 25px; font-weight: bolder; background-color: #634380;color: white;">Observation Table</th>
 									</tr>
@@ -1068,9 +1056,6 @@
 										<th rowspan="2">Net Supply Head
 											H(m)
 											</th>
-										<!-- <th colspan="3" >Pr. Gauge Reading
-											“P”<br> (Kg/cm <sup>2</sup>)</th>
-											 -->
 										<th rowspan="2">Discharge<br>Qx10 <sup>-3</sup>(m <sup>3</sup>/s) 
 											
 											</th>
@@ -1086,13 +1071,9 @@
 		
 									</tr>
 									<tr>
-										<!-- <th>P1</th>
-										<th>P2</th>
-										<th>∆P <br>=(P1-P2)</th> -->
 										<th>Break Weight (W1)</th>
 										<th>Spring Weight (W2)</th>
 										<th>∆W <br>=(W1-W2)</th>
-
 									</tr>
 									<tr>										
 									<tr>
@@ -1106,10 +1087,6 @@
 										<td id="t7"><input type="number"></td>
 										<td id="t8"><input type="number"></td>
 										<td id="t9"><input type="number"></td>
-										<!-- <td><input type="number"></td>
-										<td><input type="number"></td>
-										<td><input type="number"></td> -->
-						
 									</tr>
 									<tr>
 										<td>2.</td>
@@ -1122,9 +1099,6 @@
 										<td id="t16"><input type="number"></td>
 										<td id="t17"><input type="number"></td>
 										<td id="t18"><input type="number"></td>
-										<!-- <td><input type="number"></td>
-										<td><input type="number"></td>
-										<td><input type="number"></td> -->
 						
 									</tr>
 
@@ -1139,9 +1113,6 @@
 										<td id="t25"><input type="number"></td>
 										<td id="t26"><input type="number"></td>
 										<td id="t27"><input type="number"></td>
-										<!-- <td><input type="number"></td>
-										<td><input type="number"></td>
-										<td><input type="number"></td> -->
 						
 									</tr>
 
@@ -1156,9 +1127,6 @@
 										<td id="t34"><input type="number"></td>
 										<td id="t35"><input type="number"></td>
 										<td id="t36"><input type="number"></td>
-										<!-- <td><input type="number"></td>
-										<td><input type="number"></td>
-										<td><input type="number"></td> -->
 						
 									</tr>
 									<tr>
@@ -1172,18 +1140,16 @@
 										<td id="t43"><input type="number"></td>
 										<td id="t44"><input type="number"></td>
 										<td id="t45"><input type="number"></td>
-										<!-- <td><input type="number"></td>
-										<td><input type="number"></td>
-										<td><input type="number"></td> -->
 						
 									</tr>
 
 
 								</table>
 
+								
 								<table id="tab1" class="result-table" border="1" style="display: none;" width="50%" >
 									<tr>
-										<th colspan="13" style="font-size: 25px; font-weight: bolder; background-color: #634380;color: white;">Observation Table</th>
+										<th colspan="13" style="font-size: 25px; font-weight: bolder; background-color: #634380;color: white;">Result Table</th>
 									</tr>
 									<tr>
 										<th rowspan="2">S.No:</th>
@@ -1191,9 +1157,6 @@
 										<th rowspan="2">Net Supply Head
 											H(m)
 											</th>
-										<!-- <th colspan="3" >Pr. Gauge Reading
-											“P”<br> (Kg/cm <sup>2</sup>)</th>
-											 -->
 										<th rowspan="2">Discharge<br>Qx10 <sup>-3</sup>(m <sup>3</sup>/s) 
 											
 											</th>
@@ -1209,9 +1172,6 @@
 		
 									</tr>
 									<tr>
-										<!-- <th>P1</th>
-										<th>P2</th>
-										<th>∆P <br>=(P1-P2)</th> -->
 										<th>Break Weight (W1)</th>
 										<th>Spring Weight (W2)</th>
 										<th>∆W <br>=(W1-W2)</th>
@@ -1220,95 +1180,79 @@
 									<tr>										
 									<tr>
 										<td>1.</td>
-										<td id="t1"><input type="number"></td>
-										<td id="t2"><input type="number"></td>
-										<td id="t3"><input type="number"></td>
-										<td id="t4"><input type="number"></td>
-										<td id="t5"><input type="number"></td>
-										<td id="t6"><input type="number"></td>
-										<td id="t7"><input type="number"></td>
-										<td id="t8"><input type="number"></td>
-										<td id="t9"><input type="number"></td>
-										<!-- <td><input type="number"></td>
-										<td><input type="number"></td>
-										<td><input type="number"></td> -->
+										<td id="t1"><input type="number" disabled="true" value="1000"></td>
+										<td id="t2"><input type="number" disabled="true" value="26"></td>
+										<td id="t3"><input type="number" disabled="true" value="3.251"></td>
+										<td id="t4"><input type="number" disabled="true" value="5"></td>
+										<td id="t5"><input type="number" disabled="true" value="0.5"></td>
+										<td id="t6"><input type="number" disabled="true" value="4.5"></td>
+										<td id="t7"><input type="number" disabled="true" value="8.292"></td>
+										<td id="t8"><input type="number" disabled="true" value="0.514"></td>
+										<td id="t9"><input type="number" disabled="true" value="61.953"></td>
 						
 									</tr>
 									<tr>
 										<td>2.</td>
-										<td id="t10"><input type="number"></td>
-										<td id="t11"><input type="number"></td>
-										<td id="t12"><input type="number"></td>
-										<td id="t13"><input type="number"></td>
-										<td id="t14"><input type="number"></td>
-										<td id="t15"><input type="number"></td>
-										<td id="t16"><input type="number"></td>
-										<td id="t17"><input type="number"></td>
-										<td id="t18"><input type="number"></td>
-										<!-- <td><input type="number"></td>
-										<td><input type="number"></td>
-										<td><input type="number"></td> -->
+										<td id="t10"><input type="number" disabled="true" value="1000"></td>
+										<td id="t11"><input type="number" disabled="true" value="32"></td>
+										<td id="t12"><input type="number" disabled="true" value="4.597"></td>
+										<td id="t13"><input type="number" disabled="true" value="7"></td>
+										<td id="t14"><input type="number" disabled="true" value="0.9"></td>
+										<td id="t15"><input type="number" disabled="true" value="6.1"></td>
+										<td id="t16"><input type="number" disabled="true" value="1.443"></td>
+										<td id="t17"><input type="number" disabled="true" value="0.719"></td>
+										<td id="t18"><input type="number" disabled="true" value="49.838"></td>
 						
 									</tr>
 
 									<tr>
 										<td>3.</td>
-										<td id="t19"><input type="number"></td>
-										<td id="t20"><input type="number"></td>
-										<td id="t21"><input type="number"></td>
-										<td id="t22"><input type="number"></td>
-										<td id="t23"><input type="number"></td>
-										<td id="t24"><input type="number"></td>
-										<td id="t25"><input type="number"></td>
-										<td id="t26"><input type="number"></td>
-										<td id="t27"><input type="number"></td>
-										<!-- <td><input type="number"></td>
-										<td><input type="number"></td>
-										<td><input type="number"></td> -->
+										<td id="t19"><input type="number" disabled="true" value="1000"></td>
+										<td id="t20"><input type="number" disabled="true" value="37"></td>
+										<td id="t21"><input type="number" disabled="true" value="3.251"></td>
+										<td id="t22"><input type="number" disabled="true" value="9"></td>
+										<td id="t23"><input type="number" disabled="true" value="1.4"></td>
+										<td id="t24"><input type="number" disabled="true" value="7.6"></td>
+										<td id="t25"><input type="number" disabled="true" value="1.180"></td>
+										<td id="t26"><input type="number" disabled="true" value="0.925"></td>
+										<td id="t27"><input type="number" disabled="true" value="78.363"></td>
 						
 									</tr>
 
 									<tr>
 										<td>4.</td>
-										<td id="t28"><input type="number"></td>
-										<td id="t29"><input type="number"></td>
-										<td id="t30"><input type="number"></td>
-										<td id="t31"><input type="number"></td>
-										<td id="t32"><input type="number"></td>
-										<td id="t33"><input type="number"></td>
-										<td id="t34"><input type="number"></td>
-										<td id="t35"><input type="number"></td>
-										<td id="t36"><input type="number"></td>
-										<!-- <td><input type="number"></td>
-										<td><input type="number"></td>
-										<td><input type="number"></td> -->
+										<td id="t28"><input type="number" disabled="true" value="1000"></td>
+										<td id="t29"><input type="number" disabled="true" value="42"></td>
+										<td id="t30"><input type="number" disabled="true" value="3.251"></td>
+										<td id="t31"><input type="number" disabled="true" value="11"></td>
+										<td id="t32"><input type="number" disabled="true" value="2.2"></td>
+										<td id="t33"><input type="number" disabled="true" value="8.8"></td>
+										<td id="t34"><input type="number" disabled="true" value="1.894"></td>
+										<td id="t35"><input type="number" disabled="true" value="1.130"></td>
+										<td id="t36"><input type="number" disabled="true" value="59.670"></td>
 						
 									</tr>
 									<tr>
 										<td>5.</td>
-										<td id="t37"><input type="number"></td>
-										<td id="t38"><input type="number"></td>
-										<td id="t39"><input type="number"></td>
-										<td id="t40"><input type="number"></td>
-										<td id="t41"><input type="number"></td>
-										<td id="t42"><input type="number"></td>
-										<td id="t43"><input type="number"></td>
-										<td id="t44"><input type="number"></td>
-										<td id="t45"><input type="number"></td>
-										<!-- <td><input type="number"></td>
-										<td><input type="number"></td>
-										<td><input type="number"></td> -->
+										<td id="t37"><input type="number" disabled="true" value="1000"></td>
+										<td id="t38"><input type="number" disabled="true" value="41"></td>
+										<td id="t39"><input type="number" disabled="true" value="5.597"></td>
+										<td id="t40"><input type="number" disabled="true" value="13"></td>
+										<td id="t41"><input type="number" disabled="true" value="3"></td>
+										<td id="t42"><input type="number" disabled="true" value="10"></td>
+										<td id="t43"><input type="number" disabled="true" value="2.251"></td>
+										<td id="t44"><input type="number" disabled="true" value="1.336"></td>
+										<td id="t45"><input type="number" disabled="true" value="59.332"></td>
 						
 									</tr>
 
 
-								</table>
+								</table> 
 
-								<button type="button" class="checkYourResult" style="border: solid black 3px; border-radius: 5px; padding: 5px;" onclick="calculate()" >Calculate</button>
-
-								<button id="check-button" type="button" class="checkYourResult" style="border: solid black 3px; border-radius: 5px; padding: 5px;" disabled="true" onclick="checkYourResult()" >Check Your Result</button>
+								<button id="check-button" type="button" class="checkYourResult" style="border: solid black 3px; border-radius: 5px; padding: 5px;" onclick="checkYourResult()" >Check Your Result</button>
 
 								<div  style="margin:auto; display: flex; gap: 40px ;">
+									<button style=" margin-bottom: 40px; border: solid black 3px; border-radius: 5px; padding: 5px; " onclick="exportToExcel()">Export to Excel</button>
 									<button style=" margin-bottom: 40px; border: solid black 3px; border-radius: 5px; padding: 5px; " onclick="window.print()">Print this page</button>
 									
 								</div>
@@ -1329,7 +1273,7 @@
 
 				<!-- Add JS at the bottom of HTML file --> 
 				<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
-				<script src="https://apis.google.com/js/api.js"></script>
+				<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.4/xlsx.full.min.js"></script>
 					<script src="./js/main.js"></script>
 					<script src="./js/calculation.js"></script>
 			</body>
