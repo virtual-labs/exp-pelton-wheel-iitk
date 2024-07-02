@@ -10,10 +10,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is to avoid interference of water jet with incoming buckets. The undercut design in Pelton turbine buckets ensures that the water jet strikes the bucket at the optimal angle and flows smoothly along its surface without splashing back. This design minimizes turbulence and maximizes the efficiency of energy transfer from the water jet to the turbine.",
+        "b": "The correct answer is to avoid interference of water jet with incoming buckets. The undercut design in Pelton turbine buckets ensures that the water jet strikes the bucket at the optimal angle and flows smoothly along its surface without splashing back. This design minimizes turbulence and maximizes the efficiency of energy transfer from the water jet to the turbine.",
+        "c": "The correct answer is to avoid interference of water jet with incoming buckets. The undercut design in Pelton turbine buckets ensures that the water jet strikes the bucket at the optimal angle and flows smoothly along its surface without splashing back. This design minimizes turbulence and maximizes the efficiency of energy transfer from the water jet to the turbine.",
+        "d": "The correct answer is to avoid interference of water jet with incoming buckets. The undercut design in Pelton turbine buckets ensures that the water jet strikes the bucket at the optimal angle and flows smoothly along its surface without splashing back. This design minimizes turbulence and maximizes the efficiency of energy transfer from the water jet to the turbine."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is to help split the water jet and change its direction. The splitter on a Pelton bucket divides the incoming water jet into two equal streams, redirecting them towards the edges of the bucket. This helps in efficiently converting the kinetic energy of the water jet into mechanical energy, reducing the impact force and distributing the load evenly on the bucket.",
+        "b": "The correct answer is to help split the water jet and change its direction. The splitter on a Pelton bucket divides the incoming water jet into two equal streams, redirecting them towards the edges of the bucket. This helps in efficiently converting the kinetic energy of the water jet into mechanical energy, reducing the impact force and distributing the load evenly on the bucket.",
+        "c": "The correct answer is to help split the water jet and change its direction. The splitter on a Pelton bucket divides the incoming water jet into two equal streams, redirecting them towards the edges of the bucket. This helps in efficiently converting the kinetic energy of the water jet into mechanical energy, reducing the impact force and distributing the load evenly on the bucket.",
+        "d": "The correct answer is to help split the water jet and change its direction. The splitter on a Pelton bucket divides the incoming water jet into two equal streams, redirecting them towards the edges of the bucket. This helps in efficiently converting the kinetic energy of the water jet into mechanical energy, reducing the impact force and distributing the load evenly on the bucket."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -39,17 +39,17 @@
       "question": "3. Most widely used turbine for electricity generation:",
       "answers": {
         "a": "Pelton",
-        "b": "Kalpan",
+        "b": "Kaplan",
         "c": "Francis",
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Francis turbine. Francis turbines are the most commonly used turbines in hydroelectric power generation because they are suitable for a wide range of head heights and flow rates. They operate efficiently in both medium and high-head plants and are highly reliable.",
+        "b": "The correct answer is Francis turbine. Francis turbines are the most commonly used turbines in hydroelectric power generation because they are suitable for a wide range of head heights and flow rates. They operate efficiently in both medium and high-head plants and are highly reliable.",
+        "c": "The correct answer is Francis turbine. Francis turbines are the most commonly used turbines in hydroelectric power generation because they are suitable for a wide range of head heights and flow rates. They operate efficiently in both medium and high-head plants and are highly reliable.",
+        "d": "The correct answer is Francis turbine. Francis turbines are the most commonly used turbines in hydroelectric power generation because they are suitable for a wide range of head heights and flow rates. They operate efficiently in both medium and high-head plants and are highly reliable."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
@@ -61,10 +61,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is to maintain constant RPM. The governor in a Pelton turbine regulates the flow of water to the turbine to ensure that the rotational speed of the runner remains constant, even with varying water flow conditions. This is crucial for maintaining stable electricity generation.",
+        "b": "The correct answer is to maintain constant RPM. The governor in a Pelton turbine regulates the flow of water to the turbine to ensure that the rotational speed of the runner remains constant, even with varying water flow conditions. This is crucial for maintaining stable electricity generation.",
+        "c": "The correct answer is to maintain constant RPM. The governor in a Pelton turbine regulates the flow of water to the turbine to ensure that the rotational speed of the runner remains constant, even with varying water flow conditions. This is crucial for maintaining stable electricity generation.",
+        "d": "The correct answer is to maintain constant RPM. The governor in a Pelton turbine regulates the flow of water to the turbine to ensure that the rotational speed of the runner remains constant, even with varying water flow conditions. This is crucial for maintaining stable electricity generation."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -78,12 +78,12 @@
         "d": "10"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Z = 15 + D/2d, where D is the pitch diameter and d is the jet diameter. For a pitch diameter of 1 m and a jet diameter of 0.1 m, the number of buckets (Z) is calculated as follows:<br>Z=15+1/(2*0.1)=15+5=20",
+        "b": "The correct answer is Z = 15 + D/2d, where D is the pitch diameter and d is the jet diameter. For a pitch diameter of 1 m and a jet diameter of 0.1 m, the number of buckets (Z) is calculated as follows:<br>Z=15+1/(2*0.1)=15+5=20",
+        "c": "The correct answer is Z = 15 + D/2d, where D is the pitch diameter and d is the jet diameter. For a pitch diameter of 1 m and a jet diameter of 0.1 m, the number of buckets (Z) is calculated as follows:<br>Z=15+1/(2*0.1)=15+5=20",
+        "d": "The correct answer is Z = 15 + D/2d, where D is the pitch diameter and d is the jet diameter. For a pitch diameter of 1 m and a jet diameter of 0.1 m, the number of buckets (Z) is calculated as follows:<br>Z=15+1/(2*0.1)=15+5=20"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -95,10 +95,10 @@
         "d": "Casing"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is draft tube. Draft tubes are not used in Pelton turbines because these turbines are designed for high-head applications where the water exits the runner at atmospheric pressure. Draft tubes are typically used in reaction turbines like Francis and Kaplan turbines to recover pressure from the exiting water.",
+        "b": "The correct answer is draft tube. Draft tubes are not used in Pelton turbines because these turbines are designed for high-head applications where the water exits the runner at atmospheric pressure. Draft tubes are typically used in reaction turbines like Francis and Kaplan turbines to recover pressure from the exiting water.",
+        "c": "The correct answer is draft tube. Draft tubes are not used in Pelton turbines because these turbines are designed for high-head applications where the water exits the runner at atmospheric pressure. Draft tubes are typically used in reaction turbines like Francis and Kaplan turbines to recover pressure from the exiting water.",
+        "d": "The correct answer is draft tube. Draft tubes are not used in Pelton turbines because these turbines are designed for high-head applications where the water exits the runner at atmospheric pressure. Draft tubes are typically used in reaction turbines like Francis and Kaplan turbines to recover pressure from the exiting water."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -112,10 +112,10 @@
         "d": "V/5"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is V/2. Hydraulic efficiency of a Pelton turbine is maximized when the blade velocity is half the velocity of the water jet. This condition ensures optimal transfer of kinetic energy from the water jet to the turbine buckets.",
+        "b": "The correct answer is V/2. Hydraulic efficiency of a Pelton turbine is maximized when the blade velocity is half the velocity of the water jet. This condition ensures optimal transfer of kinetic energy from the water jet to the turbine buckets.",
+        "c": "The correct answer is V/2. Hydraulic efficiency of a Pelton turbine is maximized when the blade velocity is half the velocity of the water jet. This condition ensures optimal transfer of kinetic energy from the water jet to the turbine buckets.",
+        "d": "The correct answer is V/2. Hydraulic efficiency of a Pelton turbine is maximized when the blade velocity is half the velocity of the water jet. This condition ensures optimal transfer of kinetic energy from the water jet to the turbine buckets."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -129,10 +129,10 @@
         "d": "Overall efficiency"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is hydraulic efficiency. Hydraulic efficiency measures how effectively the turbine converts the energy of the water into mechanical energy at the runner.",
+        "b": "The correct answer is hydraulic efficiency. Hydraulic efficiency measures how effectively the turbine converts the energy of the water into mechanical energy at the runner.",
+        "c": "The correct answer is hydraulic efficiency. Hydraulic efficiency measures how effectively the turbine converts the energy of the water into mechanical energy at the runner.",
+        "d": "The correct answer is hydraulic efficiency. Hydraulic efficiency measures how effectively the turbine converts the energy of the water into mechanical energy at the runner."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -146,10 +146,10 @@
         "d": "Propeller turbine"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Pelton turbine. While Pelton turbines are efficient in high-head applications, they generally have lower efficiency compared to Kaplan and Francis turbines in other head ranges.",
+        "b": "The correct answer is Pelton turbine. While Pelton turbines are efficient in high-head applications, they generally have lower efficiency compared to Kaplan and Francis turbines in other head ranges.",
+        "c": "The correct answer is Pelton turbine. While Pelton turbines are efficient in high-head applications, they generally have lower efficiency compared to Kaplan and Francis turbines in other head ranges.",
+        "d": "The correct answer is Pelton turbine. While Pelton turbines are efficient in high-head applications, they generally have lower efficiency compared to Kaplan and Francis turbines in other head ranges."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -163,10 +163,10 @@
         "d": "Total power"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is water power. Water power (hydraulic power) is the total power available from the water before any losses, calculated based on the water flow rate and the height of the water column (head).",
+        "b": "The correct answer is water power. Water power (hydraulic power) is the total power available from the water before any losses, calculated based on the water flow rate and the height of the water column (head).",
+        "c": "The correct answer is water power. Water power (hydraulic power) is the total power available from the water before any losses, calculated based on the water flow rate and the height of the water column (head).",
+        "d": "The correct answer is water power. Water power (hydraulic power) is the total power available from the water before any losses, calculated based on the water flow rate and the height of the water column (head)."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
