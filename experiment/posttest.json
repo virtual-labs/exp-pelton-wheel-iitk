@@ -7,7 +7,7 @@
         "a": "Impulsive Turbine",
         "b": "Reaction Turbine",
         "c": "Hybrid of Impulsive and Reaction Turbine",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is impulsive turbine. Pelton turbines convert the kinetic energy of water jets into mechanical energy through the impulse of the water striking the turbine buckets, making them impulsive turbines.",
@@ -24,7 +24,7 @@
         "a": "Kalpan",
         "b": "Pelton",
         "c": "Francis",
-        "d": "All of the above"
+        "d": "All of these"
       },
       "explanations": {
         "a": "The correct answer is Pelton. Pelton turbines are designed to operate under high head conditions, often in the range of several hundred meters.",
@@ -41,7 +41,7 @@
         "a": "Emergency braking",
         "b": "Maintaining the speed",
         "c": "Stopping the runner to stand still",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is stopping the runner to stand still. The brake jet is used to quickly bring the runner to a halt by directing a water jet in the opposite direction of rotation, thus stopping the turbine.",
