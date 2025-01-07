@@ -7,7 +7,7 @@
         "a": "Impulsive Turbine",
         "b": "Reaction Turbine",
         "c": "Hybrid of Impulsive and Reaction Turbine",
-        "d": "None of these"
+        "d": "Neither impulse nor reaction"
       },
       "explanations": {
         "a": "The correct answer is impulsive turbine. Pelton turbines convert the kinetic energy of water jets into mechanical energy through the impulse of the water striking the turbine buckets, making them impulsive turbines.",
