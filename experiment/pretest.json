@@ -7,7 +7,7 @@
         "a": "To reduce weight of the buckets",
         "b": "To reduce size of the buckets",
         "c": "To avoid interference of water jet with incoming buckets",
-        "d": "None of these"
+        "d": "Increases the velocity "
       },
       "explanations": {
         "a": "The correct answer is to avoid interference of water jet with incoming buckets. The undercut design in Pelton turbine buckets ensures that the water jet strikes the bucket at the optimal angle and flows smoothly along its surface without splashing back. This design minimizes turbulence and maximizes the efficiency of energy transfer from the water jet to the turbine.",
@@ -24,7 +24,7 @@
         "a": "To reduce impact force on the bucket",
         "b": "To strength the bucket",
         "c": "To help split water jet into and change its direction",
-        "d": "None of these"
+        "d": "To enhance impact force on the bucket"
       },
       "explanations": {
         "a": "The correct answer is to help split the water jet and change its direction. The splitter on a Pelton bucket divides the incoming water jet into two equal streams, redirecting them towards the edges of the bucket. This helps in efficiently converting the kinetic energy of the water jet into mechanical energy, reducing the impact force and distributing the load evenly on the bucket.",
@@ -41,7 +41,7 @@
         "a": "Pelton",
         "b": "Kaplan",
         "c": "Francis",
-        "d": "None of these"
+        "d": "All are equally used"
       },
       "explanations": {
         "a": "The correct answer is Francis turbine. Francis turbines are the most commonly used turbines in hydroelectric power generation because they are suitable for a wide range of head heights and flow rates. They operate efficiently in both medium and high-head plants and are highly reliable.",
@@ -58,7 +58,7 @@
         "a": "To improve efficiency",
         "b": "To maintain constant RPM",
         "c": "To provide emergency shutdown",
-        "d": "None of these"
+        "d": "To control the electricity generation "
       },
       "explanations": {
         "a": "The correct answer is to maintain constant RPM. The governor in a Pelton turbine regulates the flow of water to the turbine to ensure that the rotational speed of the runner remains constant, even with varying water flow conditions. This is crucial for maintaining stable electricity generation.",
