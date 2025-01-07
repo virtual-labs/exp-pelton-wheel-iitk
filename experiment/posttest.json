@@ -41,7 +41,7 @@
         "a": "Emergency braking",
         "b": "Maintaining the speed",
         "c": "Stopping the runner to stand still",
-        "d": "None of these"
+        "d": "Emergency accelerating "
       },
       "explanations": {
         "a": "The correct answer is stopping the runner to stand still. The brake jet is used to quickly bring the runner to a halt by directing a water jet in the opposite direction of rotation, thus stopping the turbine.",
