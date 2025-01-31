@@ -26,6 +26,6 @@ H = Head (of water) acting on Pelton Turbine<br><br>
 1.	Mean Diameter of the break drum, D(D<sub>d</sub> + D<sub>r</sub>) = 200 mm<br>
 Where D<sub>d</sub> = diameter of the drum, D<sub>r</sub> = diameter of rope<br>
 2.	Speed (RPM) = <br>
-3.	W<br>
+3.	W = <br>
 4. (Q) = K√h  LPM where K = 21.1<br><br>
 <img src="images/table1.PNG">
