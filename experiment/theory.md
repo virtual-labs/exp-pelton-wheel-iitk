@@ -156,13 +156,13 @@ The head available at the inlet of the turbine is known as the net or effective 
 
 It is defined as the ratio of power developed by the runner to the power supplied by the jet at the entrance to the turbine. Mathematically, <br>
 
-<img src="images/HE.png"><br><br>
+<img src="images/image5.1.png"><br><br>
 
 <b>5.2	Mechanical Efficiency: </b><br>
 
 It is defined as the ratio of the power obtained from the shaft of the turbine to the power developed by the runner.<br>
 
-<img src="images/F1.png"><br>
+<img src="images/image5.2.png"><br>
 
 These two powers differ by the number of mechanical losses, viz, bearing friction, etc <br><br>
 
@@ -170,18 +170,18 @@ These two powers differ by the number of mechanical losses, viz, bearing frictio
 
 The volumetric efficiency is the ratio of the volume of water actually striking the runner to the volume of water supplied by the jet to the turbine <br>
 
-<img src="images/F2.png"><br><br>
+<img src="images/image5.3.png"><br><br>
 
 <b>5.4	Overall Efficiency: </b><br>
 
 It is defined as the ratio of the power available at the turbine shaft to the power supplied by the water jet.<br>
 
-<img src="images/F3.png"><br>
+<img src="images/image5.4.png"><br>
 
 A constant speed is maintained by varying the discharge (by changing spear position) as the load changes. From the measured discharge (Q), head (almost constant), power developed (P) and overall efficiency (ƞ<sub>0</sub>), are calculated and curves are plotted between efficiency (ƞ0), power (P) and the discharge (Q).<br>
 The operating characteristic curves are also known as constant speed characteristic curves. Figure shows the variation of efficiency and power with respect to discharge.<br><br>
 
-<img src="images/F4.png"><br>
+<img src="images/image5.4.1.png"><br>
 
 
 
