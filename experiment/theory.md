@@ -146,9 +146,20 @@ The speed of the turbine runner is required to be maintained constant so that th
 
 The gross head is the difference between the water level at the reservoir and the water level at the tailrace. It is denoted by H<sub>g</sub>.<br><br>
 
-<b>Net or Effective Head (H): <b><br>
+<b>Net or Effective Head (H): </b><br>
 
-The head available at the inlet of the turbine is known as the net or effective head. It is denoted by H and is given by <b>H=H<sub>g</sub>-h<sub>f</sub> </b><br><br>
+The head available at the inlet of the turbine is known as the net or effective head. It is denoted by H and is given by <b>H=H<sub>g</sub>-h<sub>f</sub> </b><br>
+
+<img src="images/formula_1.PNG"><br>
+
+where h<sub>f</sub> = total loss of head due to friction during the transit of water from headrace to tailrace and is given by:<br><br>
+
+Where,<br>
+f= coefficient of friction of penstock depending on the type of material of penstock <br>
+L = total length of penstock in m <br>
+V = mean flow velocity of water through the penstock in m/s<sup>2</sup> <br>
+d = diameter of penstock in m <br>
+g = acceleration due to gravity in m/s<sup>2</sup> <br><br>
 
 <b>5. Efficiencies and characteristic Curves Pelton Turbine: </b><br>
 
