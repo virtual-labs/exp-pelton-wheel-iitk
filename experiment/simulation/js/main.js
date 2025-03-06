@@ -1,5 +1,6 @@
 //Your JavaScript goes in here
 var enableButton=document.getElementById("enable");
+var highlightArrow = document.getElementById("highlight-arrow");
 var purzeButton=document.getElementById("purze")
 var valvePositioning = document.querySelector("#flow-rate-slider")
 var svg=document.getElementById("Layer_1");
@@ -38,6 +39,7 @@ function power(){
         enableButton.textContent = "POWER OFF"
         count=1
         waterFlow1()
+        highlightArrow.style.display = "none"
 
     // }else{
     //     enableButton.style.backgroundColor = "#ca2222"
@@ -153,7 +155,7 @@ function waterFlow3(){
         // waterFlow4()
         purzeButton.disabled = false;
         document.getElementById("steps").innerHTML = "Click On Flow Valve On."
-
+        highlightArrowFn(purzeButton)
     },3000);
 }
 
@@ -179,6 +181,7 @@ function waterFlow4(){
 
 
 function purzeAction(){
+    highlightArrow.style.display = "none"
     waterFlow4()
 }
 
@@ -347,6 +350,7 @@ function waterFlow10(){
             rpmText.textContent = "1200"
             weightSelection.disabled = false;
             document.getElementById("steps").innerHTML = "Select the value of brake weight."
+            highlightArrowFn(weightSelection)
         }, 1000);
     // }
     // }
@@ -377,22 +381,27 @@ function updateValvePositioning(){
         headText.textContent="26"
         qText.textContent = "3.251 X 10"
         document.getElementById("steps").innerHTML = "Now, again change the value of brake weight. "
+        highlightArrowFn(weightSelection)
     }if(valvePositioning.value == 2){
         headText.textContent="32"
         qText.textContent = "4.597 X 10"
         document.getElementById("steps").innerHTML = "Now, again change the value of brake weight. "
+        highlightArrowFn(weightSelection)
     }if(valvePositioning.value == 3){
         headText.textContent="37"
         qText.textContent = "3.251 X 10"
         document.getElementById("steps").innerHTML = "Now, again change the value of brake weight. "
+        highlightArrowFn(weightSelection)
     }if(valvePositioning.value == 4){
         headText.textContent="42"
         qText.textContent = "4.597 X 10"
         document.getElementById("steps").innerHTML = "Now, again change the value of brake weight. "
+        highlightArrowFn(weightSelection)
     }if(valvePositioning.value == 5){
         headText.textContent="41"
         qText.textContent = "5.597 X 10"    
         document.getElementById("steps").innerHTML = "Now, again change the value of brake weight. "
+        highlightArrow.style.display = "none"
     }if(valvePositioning.value == 0){
         document.getElementById("steps").innerHTML = "Please select the value of spear positioning, according to instructions."
     }
@@ -414,30 +423,31 @@ function updateBrakeWeight(){
         w1Text.textContent = "5.0";
         w2Text.textContent = "0.5";
         document.getElementById("steps").innerHTML = "Set the value of spear positioning for 5kg brake weight to 1. "
+        highlightArrowFn(valvePositioning)
     }if(selectedWeight == 7){
         rpmText.textContent = "850"
         w2Text.textContent = "0.9"; 
         w1Text.textContent = "7.0";
         document.getElementById("steps").innerHTML = "Set the value of spear positioning for 7kg brake weight to 2."
-
+        highlightArrowFn(valvePositioning)
     }if(selectedWeight == 9){
         rpmText.textContent = "800"
         w2Text.textContent = "1.4";
         w1Text.textContent = "9.0";
         document.getElementById("steps").innerHTML = "Set the value of spear positioning for 9kg brake weight to 3."
-
+        highlightArrowFn(valvePositioning)
     }if(selectedWeight == 11){
         rpmText.textContent = "750"
         w2Text.textContent = "2.2";
         w1Text.textContent = "11.0";
         document.getElementById("steps").innerHTML = "Set the value of spear positioning for 11kg brake weight to 4."
-
+        highlightArrowFn(valvePositioning)
     }if(selectedWeight == 13){
         rpmText.textContent = "750"
         w2Text.textContent = "3.0";
         w1Text.textContent = "13.0";
         document.getElementById("steps").innerHTML = "Set the value of spear positioning for 13kg brake weight to 5."
-
+        highlightArrowFn(valvePositioning)
     }if(selectedWeight == 0){
         rpmText.textContent = "0"
         // w2Text = "3";
@@ -458,3 +468,18 @@ let currentPosition = 0;
             currentPosition += 10; // Adjust this value based on how much you want to move
             document.getElementById('movingGroup').setAttribute('transform', `translate(${currentPosition}, 0)`);
         }
+
+        function highlightArrowFn(element) {
+            if (element) {
+              let rect = element.getBoundingClientRect();
+              highlightArrow.style.left = `${
+                rect.left + window.scrollX + rect.width / 2 - 25
+              }px`;
+              highlightArrow.style.top = `${rect.top + window.scrollY - 50}px`;
+              highlightArrow.style.display = "block";
+            }
+          }
+          
+          document.addEventListener("DOMContentLoaded", () =>
+            highlightArrowFn(enableButton)
+          );        
