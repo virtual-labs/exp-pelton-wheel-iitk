@@ -30,6 +30,7 @@ var w1Text = document.getElementById("w1-text")
 var w2Text = document.getElementById("w2-text")
 var qText = document.getElementById("q-text")
 var headText = document.getElementById("head-text")
+var currentHighlightedElement = enableButton;
 
 // power button
 function power(){
@@ -477,9 +478,14 @@ let currentPosition = 0;
               }px`;
               highlightArrow.style.top = `${rect.top + window.scrollY - 50}px`;
               highlightArrow.style.display = "block";
+              currentHighlightedElement = element;
             }
           }
           
           document.addEventListener("DOMContentLoaded", () =>
             highlightArrowFn(enableButton)
-          );        
+          );
+          
+          window.addEventListener('resize', function() {
+            highlightArrowFn(currentHighlightedElement); // Recalculate position of the arrow when the window resizes
+          });
