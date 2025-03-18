@@ -190,9 +190,10 @@ It is defined as the ratio of the power available at the turbine shaft to the po
 <img src="images/image5.4.png"><br>
 
 A constant speed is maintained by varying the discharge (by changing spear position) as the load changes. From the measured discharge (Q), head (almost constant), power developed (P) and overall efficiency (ƞ<sub>0</sub>), are calculated and curves are plotted between efficiency (ƞ0), power (P) and the discharge (Q).<br>
-The operating characteristic curves are also known as constant speed characteristic curves. Figure shows the variation of efficiency and power with respect to discharge.<br><br>
+The operating characteristic curves are also known as constant speed characteristic curves.  Fig. 7 shows the variation of efficiency and power with respect to discharge.<br><br>
 
-<img src="images/image5.4.1.png"><br>
+<img src="images/img_1.png"><br>
+Fig. 7: Characteristic curves of Pelton Turbine
 
 
 
