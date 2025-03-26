@@ -23,14 +23,14 @@
       "answers": {
         "a": "To reduce impact force on the bucket",
         "b": "To strength the bucket",
-        "c": "To help split water jet into and change its direction",
+        "c": "To help split water jet in two and change its direction.",
         "d": "To enhance impact force on the bucket"
       },
       "explanations": {
-        "a": "The correct answer is to help split the water jet and change its direction. The splitter on a Pelton bucket divides the incoming water jet into two equal streams, redirecting them towards the edges of the bucket. This helps in efficiently converting the kinetic energy of the water jet into mechanical energy, reducing the impact force and distributing the load evenly on the bucket.",
-        "b": "The correct answer is to help split the water jet and change its direction. The splitter on a Pelton bucket divides the incoming water jet into two equal streams, redirecting them towards the edges of the bucket. This helps in efficiently converting the kinetic energy of the water jet into mechanical energy, reducing the impact force and distributing the load evenly on the bucket.",
-        "c": "The correct answer is to help split the water jet and change its direction. The splitter on a Pelton bucket divides the incoming water jet into two equal streams, redirecting them towards the edges of the bucket. This helps in efficiently converting the kinetic energy of the water jet into mechanical energy, reducing the impact force and distributing the load evenly on the bucket.",
-        "d": "The correct answer is to help split the water jet and change its direction. The splitter on a Pelton bucket divides the incoming water jet into two equal streams, redirecting them towards the edges of the bucket. This helps in efficiently converting the kinetic energy of the water jet into mechanical energy, reducing the impact force and distributing the load evenly on the bucket."
+        "a": "The correct answer is to help split water jet in two and change its direction. The splitter on a Pelton bucket divides the incoming water jet into two equal streams, redirecting them towards the edges of the bucket. This helps in efficiently converting the kinetic energy of the water jet into mechanical energy, reducing the impact force and distributing the load evenly on the bucket.",
+        "b": "The correct answer is to help split water jet in two and change its direction. The splitter on a Pelton bucket divides the incoming water jet into two equal streams, redirecting them towards the edges of the bucket. This helps in efficiently converting the kinetic energy of the water jet into mechanical energy, reducing the impact force and distributing the load evenly on the bucket.",
+        "c": "The correct answer is to help split water jet in two and change its direction. The splitter on a Pelton bucket divides the incoming water jet into two equal streams, redirecting them towards the edges of the bucket. This helps in efficiently converting the kinetic energy of the water jet into mechanical energy, reducing the impact force and distributing the load evenly on the bucket.",
+        "d": "The correct answer is to help split water jet in two and change its direction. The splitter on a Pelton bucket divides the incoming water jet into two equal streams, redirecting them towards the edges of the bucket. This helps in efficiently converting the kinetic energy of the water jet into mechanical energy, reducing the impact force and distributing the load evenly on the bucket."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"

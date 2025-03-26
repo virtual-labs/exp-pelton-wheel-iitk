@@ -110,12 +110,12 @@ The runner with buckets is shown in the figure given above.<br>
 <b>2.3 Casing: </b><br>
 
 The outer covering of this turbine is called casing. The Pelton turbine with the casing is shown in the Fig. 2.<br>
-•	It prevents the splashing of the water and helps to discharge the water to the trail race. It also acts as a safeguard in the case of an accident occurs. <br>
+•	It prevents water splashing and helps discharge the water to the tailrace. It also acts as a safeguard in the case of an accident occurs. <br>
 •	Cast iron or fabricated steel plates are used to make the casing of the Pelton Turbine. <br><br>
 
 <b>2.4	Breaking Jet: </b><br>
 
-•	When the jet of water is completely closed by pushing the spear in the forward direction than the amount of water striking the runner becomes zero. But still, the runner keeps moving due to the inertia of the runner<br><br>
+•	When the jet of water is completely closed by pushing the spear forward, the amount of water striking the runner becomes zero. But still, the runner keeps moving due to the inertia of the runner.<br><br>
 
 <img src="images/fig5.png"><br><br>
 
@@ -134,7 +134,7 @@ The speed of the turbine runner is required to be maintained constant so that th
 
 •	The water stored at a high head is made to flow through the penstock and reaches the nozzle of the Pelton turbine.<br>
 •	The nozzle increases the K.E. of the water and directs the water in the form of a jet.<br>
-•	The jet of water from the nozzle strikes the buckets (vanes) of the runner. This made the runner to rotate at very high speed.<br>
+•	The jet of water from the nozzle strikes the buckets (vanes) of the runner. This causes the runner to rotate at a very high speed.<br>
 •	The quantity of water striking the vanes or buckets is controlled by the needle valve present inside the nozzle.<br>
 •	The generator is attached to the shaft of the runner which converts the mechanical energy of the runner into electrical energy.<br><br>
 
@@ -175,7 +175,7 @@ It is defined as the ratio of the power obtained from the shaft of the turbine t
 
 <img src="images/image5.2.png"><br>
 
-These two powers differ by the number of mechanical losses, viz, bearing friction, etc <br><br>
+These two powers differ due to mechanical losses, such as bearing friction. <br><br>
 
 <b>5.3	Volumetric Efficiency: </b><br>
 
