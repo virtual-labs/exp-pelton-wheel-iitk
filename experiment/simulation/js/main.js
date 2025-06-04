@@ -401,7 +401,7 @@ function updateValvePositioning(){
     }if(valvePositioning.value == 5){
         headText.textContent="41"
         qText.textContent = "5.597 X 10"    
-        document.getElementById("steps").innerHTML = "Now, again change the value of brake weight. "
+        document.getElementById("steps").innerHTML = "Please Complete the Observation and Calculation Table."
         highlightArrow.style.display = "none"
     }if(valvePositioning.value == 0){
         document.getElementById("steps").innerHTML = "Please select the value of spear positioning, according to instructions."
