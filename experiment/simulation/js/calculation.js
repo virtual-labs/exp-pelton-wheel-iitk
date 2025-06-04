@@ -59,7 +59,7 @@ var t45=document.getElementById("t45");
                         t2.querySelector("input").style.color="red"
                         flag=false
                     }
-                    if(t3.querySelector("input").value!=3.25){
+                    if(t3.querySelector("input").value!=0.003251){
                         t3.querySelector("input").style.color="red"
                         flag=false
                     }
@@ -78,12 +78,9 @@ var t45=document.getElementById("t45");
                         flag=false
                     }
             
-                    if(t7.querySelector("input").value >8.1261  && t7.querySelector("input").value<8.45784 ){
-                        t7.querySelector("input").style.color = "black"
-                        flag= true
-                    }else{
+                    if(t7.querySelector("input").value != 0.82920006 ){
                         t7.querySelector("input").style.color = "red"
-                        flag= false
+                        flag=false
                     }
             
                     if(t8.querySelector("input").value >0.50372  && t8.querySelector("input").value<0.52428 ){
@@ -112,7 +109,7 @@ var t45=document.getElementById("t45");
                         t11.querySelector("input").style.color="red"
                         flag=false
                     }
-                    if(t12.querySelector("input").value!=4.59){
+                    if(t12.querySelector("input").value!=0.004597){
                         t12.querySelector("input").style.color="red"
                         flag=false
                     }
@@ -155,7 +152,7 @@ var t45=document.getElementById("t45");
                         t20.querySelector("input").style.color="red"
                         flag=false
                     }
-                    if(t21.querySelector("input").value!=3.25){
+                    if(t21.querySelector("input").value!=0.003251){
                         t21.querySelector("input").style.color="red"
                         flag=false
                     }
@@ -199,7 +196,7 @@ var t45=document.getElementById("t45");
                         t29.querySelector("input").style.color="red"
                         flag=false
                     }
-                    if(t30.querySelector("input").value!=4.59){
+                    if(t30.querySelector("input").value!=0.004597){
                         t30.querySelector("input").style.color="red"
                         flag=false
                     }
@@ -242,7 +239,7 @@ var t45=document.getElementById("t45");
                         t38.querySelector("input").style.color="red"
                         flag=false
                     }
-                    if(t39.querySelector("input").value!=5.59){
+                    if(t39.querySelector("input").value!=0.005597){
                         t39.querySelector("input").style.color="red"
                         flag=false
                     }
