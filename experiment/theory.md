@@ -78,7 +78,7 @@ The operating characteristic curves are also known as constant speed characteris
 <img src="images/F4.PNG"> -->
 
 <b>1. Introduction: </b><br>
-Pelton turbine also known as Pelton wheel which is an impulsive type of hydro-turbine is a prime example of turning kinetic energy of water into rotational energy consequently to work done. Pelton turbine primarily consist of number of buckets arranged around the circumference of a wheel (Runner).  When a fast flow water jet hits the bucket tangentially, the wheel starts to rotate hence turning kinetic energy into rotational kinetic energy. Here impulsive turbine simply means that instead of moving as a result of a reaction force, water creates some impulse on the turbine to get it to move.<br><br>
+Pelton turbine also known as Pelton wheel which is an impulse type of hydro-turbine is a prime example of turning kinetic energy of water into rotational energy consequently to work done. Pelton turbine primarily consist of number of buckets arranged around the circumference of a wheel (Runner).  When a fast flow water jet hits the bucket tangentially, the wheel starts to rotate hence turning kinetic energy into rotational kinetic energy. Here impulsive turbine simply means that instead of moving as a result of a reaction force, water creates some impulse on the turbine to get it to move.<br><br>
 
 <img src="images/fig1.png"><br><br>
 
@@ -113,7 +113,7 @@ The outer covering of this turbine is called casing. The Pelton turbine with the
 •	It prevents water splashing and helps discharge the water to the tailrace. It also acts as a safeguard in the case of an accident occurs. <br>
 •	Cast iron or fabricated steel plates are used to make the casing of the Pelton Turbine. <br><br>
 
-<b>2.4	Breaking Jet: </b><br>
+<b>2.4	Braking jet: </b><br>
 
 •	When the jet of water is completely closed by pushing the spear forward, the amount of water striking the runner becomes zero. But still, the runner keeps moving due to the inertia of the runner.<br><br>
 
@@ -133,7 +133,7 @@ The speed of the turbine runner is required to be maintained constant so that th
 <b>3. Working of Pelton wheel: </b><br>
 
 •	The water stored at a high head is made to flow through the penstock and reaches the nozzle of the Pelton turbine.<br>
-•	The nozzle increases the K.E. of the water and directs the water in the form of a jet.<br>
+•	The nozzle increases the kinetic energy (K.E.) of the water and directs the water in the form of a jet.<br>
 •	The jet of water from the nozzle strikes the buckets (vanes) of the runner. This causes the runner to rotate at a very high speed.<br>
 •	The quantity of water striking the vanes or buckets is controlled by the needle valve present inside the nozzle.<br>
 •	The generator is attached to the shaft of the runner which converts the mechanical energy of the runner into electrical energy.<br><br>
