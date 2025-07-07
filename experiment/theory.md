@@ -148,11 +148,12 @@ The gross head is the difference between the water level at the reservoir and th
 
 <b>Net or Effective Head (H): </b><br>
 
-The head available at the inlet of the turbine is known as the net or effective head. It is denoted by H and is given by <b>H=H<sub>g</sub>-h<sub>f</sub> </b><br>
+The head available at the inlet of the turbine is known as the net or effective head. It is denoted by H and is given by <br>
 
-<img src="images/formula_1.PNG"><br>
+<img src="images/formula_1.1.PNG"><br>
 
 where h<sub>f</sub> = total loss of head due to friction during the transit of water from headrace to tailrace and is given by:<br><br>
+<img src="images/formula_1.PNG"><br>
 
 Where,<br>
 f= coefficient of friction of penstock depending on the type of material of penstock <br>
@@ -189,7 +190,7 @@ It is defined as the ratio of the power available at the turbine shaft to the po
 
 <img src="images/image5.4.png"><br>
 
-A constant speed is maintained by varying the discharge (by changing spear position) as the load changes. From the measured discharge (Q), head (almost constant), power developed (P) and overall efficiency (ƞ<sub>0</sub>), are calculated and curves are plotted between efficiency (ƞ0), power (P) and the discharge (Q).<br>
+A constant speed is maintained by varying the discharge (by changing spear position) as the load changes. From the measured discharge (Q), head (almost constant), power developed (P) and overall efficiency (ƞ<sub>0</sub>), are calculated and curves are plotted between efficiency (ƞ<sub>0</sub>), power (P) and the discharge (Q).<br>
 The operating characteristic curves are also known as constant speed characteristic curves.  Fig. 7 shows the variation of efficiency and power with respect to discharge.<br><br>
 
 <img src="images/img_1.png"><br>
