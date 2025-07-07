@@ -1,0 +1,19 @@
+
+/home/runner/work/exp-pelton-wheel-iitk/exp-pelton-wheel-iitk/experiment/simulation/js/calculation.js
+   47:14  warning  'checkYourResult' is defined but never used  no-unused-vars
+  282:17  warning  'confetti' is not defined                    no-undef
+  295:14  warning  'exportToExcel' is defined but never used    no-unused-vars
+  296:18  warning  'XLSX' is not defined                        no-undef
+  313:32  warning  'XLSX' is not defined                        no-undef
+  314:9   warning  'XLSX' is not defined                        no-undef
+  319:9   warning  'XLSX' is not defined                        no-undef
+
+/home/runner/work/exp-pelton-wheel-iitk/exp-pelton-wheel-iitk/experiment/simulation/js/main.js
+    6:5   warning  'svg' is assigned a value but never used            no-unused-vars
+   36:10  warning  'power' is defined but never used                   no-unused-vars
+  184:10  warning  'purzeAction' is defined but never used             no-unused-vars
+  379:10  warning  'updateValvePositioning' is defined but never used  no-unused-vars
+  418:10  warning  'updateBrakeWeight' is defined but never used       no-unused-vars
+
+✖ 12 problems (0 errors, 12 warnings)
+

@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Pelton turbine is ",
+      "answers": {
+        "a": "Impulse Turbine",
+        "b": "Reaction Turbine",
+        "c": "Hybrid of Impulsive and Reaction Turbine",
+        "d": "Neither impulse nor reaction"
+      },
+      "explanations": {
+        "a": "The correct answer is impulse turbine. Pelton turbines convert the kinetic energy of water jets into mechanical energy through the impulse of the water striking the turbine buckets, making them impulse turbines.",
+        "b": "The correct answer is impulse turbine. Pelton turbines convert the kinetic energy of water jets into mechanical energy through the impulse of the water striking the turbine buckets, making them impulse turbines.",
+        "c": "The correct answer is impulse turbine. Pelton turbines convert the kinetic energy of water jets into mechanical energy through the impulse of the water striking the turbine buckets, making them impulse turbines.",
+        "d": "The correct answer is impulse turbine. Pelton turbines convert the kinetic energy of water jets into mechanical energy through the impulse of the water striking the turbine buckets, making them impulse turbines."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Maximum Head required in the following turbine",
+      "answers": {
+        "a": "Kaplan",
+        "b": "Pelton",
+        "c": "Francis",
+        "d": "All of these"
+      },
+      "explanations": {
+        "a": "The correct answer is Pelton. Pelton turbines are designed to operate under high head conditions, often in the range of several hundred meters.",
+        "b": "The correct answer is Pelton. Pelton turbines are designed to operate under high head conditions, often in the range of several hundred meters.",
+        "c": "The correct answer is Pelton. Pelton turbines are designed to operate under high head conditions, often in the range of several hundred meters.",
+        "d": "The correct answer is Pelton. Pelton turbines are designed to operate under high head conditions, often in the range of several hundred meters."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Braking Jet in Pelton turbine is mainly used for",
+      "answers": {
+        "a": "Emergency braking",
+        "b": "Maintaining the speed",
+        "c": "Stopping the runner completely",
+        "d": "Emergency accelerating "
+      },
+      "explanations": {
+        "a": "The correct answer is stopping the runner to stand still. The brake jet is used to quickly bring the runner to a halt by directing a water jet in the opposite direction of rotation, thus stopping the turbine.",
+        "b": "The correct answer is stopping the runner to stand still. The brake jet is used to quickly bring the runner to a halt by directing a water jet in the opposite direction of rotation, thus stopping the turbine.",
+        "c": "The correct answer is stopping the runner to stand still. The brake jet is used to quickly bring the runner to a halt by directing a water jet in the opposite direction of rotation, thus stopping the turbine.",
+        "d": "The correct answer is stopping the runner to stand still. The brake jet is used to quickly bring the runner to a halt by directing a water jet in the opposite direction of rotation, thus stopping the turbine."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Penstock is the___in a hydroelectric power plant",
+      "answers": {
+        "a": "A conduit that connects the forebay to the turbine’s casing",
+        "b": "Pipe connecting the surge tank to the dam",
+        "c": "A pipe attached to the runner output",
+        "d": "A nozzle for spraying water"
+      },
+      "explanations": {
+        "a": "The correct answer is a conduit that connects the forebay to the turbine’s casing. The penstock directs water from the forebay to the turbine, controlling the flow and head pressure.",
+        "b": "The correct answer is a conduit that connects the forebay to the turbine’s casing. The penstock directs water from the forebay to the turbine, controlling the flow and head pressure.",
+        "c": "The correct answer is a conduit that connects the forebay to the turbine’s casing. The penstock directs water from the forebay to the turbine, controlling the flow and head pressure.",
+        "d": "The correct answer is a conduit that connects the forebay to the turbine’s casing. The penstock directs water from the forebay to the turbine, controlling the flow and head pressure."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. In a Pelton turbine ___________ is defined as ratio between power delivered to runner and power supplied at inlet of turbine.",
+      "answers": {
+        "a": "Mechanical efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Hydraulic efficiency",
+        "d": "Overall efficiency"
+      },
+      "explanations": {
+        "a": "The correct answer is hydraulic efficiency. Hydraulic efficiency assesses how efficiently the turbine converts water energy into mechanical energy at the runner.",
+        "b": "The correct answer is hydraulic efficiency. Hydraulic efficiency assesses how efficiently the turbine converts water energy into mechanical energy at the runner.",
+        "c": "The correct answer is hydraulic efficiency. Hydraulic efficiency assesses how efficiently the turbine converts water energy into mechanical energy at the runner.",
+        "d": "The correct answer is hydraulic efficiency. Hydraulic efficiency assesses how efficiently the turbine converts water energy into mechanical energy at the runner."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. The maximum efficiency of Pelton turbine is _________",
+      "answers": {
+        "a": "80%",
+        "b": "70%",
+        "c": "50%",
+        "d": "88%"
+      },
+      "explanations": {
+        "a": "The correct answer is 88%. Pelton turbines can achieve high efficiencies of up to 88% under optimal conditions.",
+        "b": "The correct answer is 88%. Pelton turbines can achieve high efficiencies of up to 88% under optimal conditions.",
+        "c": "The correct answer is 88%. Pelton turbines can achieve high efficiencies of up to 88% under optimal conditions.",
+        "d": "The correct answer is 88%. Pelton turbines can achieve high efficiencies of up to 88% under optimal conditions."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. In Pelton turbine product of mechanical efficiency and hydraulic efficiency is known as _____________",
+      "answers": {
+        "a": "Mechanical efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Hydraulic efficiency",
+        "d": "Overall efficiency"
+      },
+      "explanations": {
+        "a": "The correct answer is overall efficiency. Overall efficiency is the product of mechanical and hydraulic efficiencies, reflecting the total efficiency from water energy to shaft power output.",
+        "b": "The correct answer is overall efficiency. Overall efficiency is the product of mechanical and hydraulic efficiencies, reflecting the total efficiency from water energy to shaft power output.",
+        "c": "The correct answer is overall efficiency. Overall efficiency is the product of mechanical and hydraulic efficiencies, reflecting the total efficiency from water energy to shaft power output.",
+        "d": "The correct answer is overall efficiency. Overall efficiency is the product of mechanical and hydraulic efficiencies, reflecting the total efficiency from water energy to shaft power output."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. In Pelton turbine, ____________ is ratio of volume of water actually striking the runner and volume of water supplied to turbine.",
+      "answers": {
+        "a": "Mechanical efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Hydraulic efficiency",
+        "d": "Overall efficiency"
+      },
+      "explanations": {
+        "a": "The correct answer is volumetric efficiency. Volumetric efficiency measures the proportion of water that effectively strikes the runner compared to the total water supplied to the turbine.",
+        "b": "The correct answer is volumetric efficiency. Volumetric efficiency measures the proportion of water that effectively strikes the runner compared to the total water supplied to the turbine.",
+        "c": "The correct answer is volumetric efficiency. Volumetric efficiency measures the proportion of water that effectively strikes the runner compared to the total water supplied to the turbine.",
+        "d": "The correct answer is volumetric efficiency. Volumetric efficiency measures the proportion of water that effectively strikes the runner compared to the total water supplied to the turbine."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. The operating characteristic curves of a turbine are",
+      "answers": {
+        "a": "Varying speed curves",
+        "b": "Constant efficiency curves",
+        "c": "Constant head curves",
+        "d": "Constant speed curves"
+      },
+      "explanations": {
+        "a": "The correct answer is constant speed curves. Operating characteristic curves for turbines often illustrate performance at a constant speed to understand efficiency and output under different load conditions.",
+        "b": "The correct answer is constant speed curves. Operating characteristic curves for turbines often illustrate performance at a constant speed to understand efficiency and output under different load conditions.",
+        "c": "The correct answer is constant speed curves. Operating characteristic curves for turbines often illustrate performance at a constant speed to understand efficiency and output under different load conditions.",
+        "d": "The correct answer is constant speed curves. Operating characteristic curves for turbines often illustrate performance at a constant speed to understand efficiency and output under different load conditions."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. The width of buckets of Pelton wheel is _________________",
+      "answers": {
+        "a": "2 times diameter of jet",
+        "b": "3 times diameter of jet",
+        "c": "4 times diameter of jet",
+        "d": "5 times diameter of jet"
+      },
+      "explanations": {
+        "a": "The correct answer is 5 times diameter of jet. The width of Pelton buckets is typically designed to be five times the diameter of the jet to ensure proper capture and deflection of the water jet, maximizing energy transfer.",
+        "b": "The correct answer is 5 times diameter of jet. The width of Pelton buckets is typically designed to be five times the diameter of the jet to ensure proper capture and deflection of the water jet, maximizing energy transfer.",
+        "c": "The correct answer is 5 times diameter of jet. The width of Pelton buckets is typically designed to be five times the diameter of the jet to ensure proper capture and deflection of the water jet, maximizing energy transfer.",
+        "d": "The correct answer is 5 times diameter of jet. The width of Pelton buckets is typically designed to be five times the diameter of the jet to ensure proper capture and deflection of the water jet, maximizing energy transfer."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
