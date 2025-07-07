@@ -6,7 +6,7 @@ A constant speed is maintained by varying the discharge (by changing spear posit
 K is a constant depends on venturi meter dimensions<br><br>
 
 2.	Shaft Power/Brake Power developed (B.P)<br>
-B.P = 2πNWRex9.81/60,000    kW<br>
+B.P = 2πNWR<sub>e</sub>x9.81/60,000    kW<br>
 Where N = speed in RPM<br>
 W = Load applied on brake drum (N)<br>
 R<sub>e</sub> = Effective radius of the brake drum in meters<br><br>
