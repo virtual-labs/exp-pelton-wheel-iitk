@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Undercut is provided on buckets to:",
+      "question": "“1.” Undercut is provided on buckets to:",
       "answers": {
         "a": "To reduce weight of the buckets",
         "b": "To reduce size of the buckets",
         "c": "To avoid interference of water jet with incoming buckets",
-        "d": "To increases the velocity"
+        "d": "To increase the velocity"
       },
       "explanations": {
         "a": "The correct answer is “To avoid interference of water jet with incoming buckets”. The undercut design in Pelton turbine buckets ensures that the water jet strikes the bucket at the optimal angle and flows smoothly along its surface without splashing back. This design minimizes turbulence and maximizes the efficiency of energy transfer from the water jet to the turbine.",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. Splitter on buckets is used:",
+      "question": "“2.” Splitter on buckets is used:",
       "answers": {
         "a": "To reduce impact force on the bucket",
         "b": "To strength the bucket",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3. Most widely used turbine for electricity generation is:",
+      "question": "“3.” Most widely used turbine for electricity generation is:",
       "answers": {
         "a": "Pelton",
         "b": "Kaplan",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4. Governor in Pelton Turbine is used:",
+      "question": "“4.” Governor in Pelton Turbine is used:",
       "answers": {
         "a": "To improve efficiency",
         "b": "To maintain constant RPM",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5. A Pelton wheel is to be designed with a wheel pitch dia. of 1 m and jet dia. of 0.1 m. the number of buckets required:",
+      "question": "“5.” A Pelton wheel is to be designed with a wheel pitch dia. of 1 m and jet dia. of 0.1 m. the number of buckets required:",
       "answers": {
         "a": "25",
         "b": "20",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6. Which component is not used in Pelton wheel turbine?",
+      "question": "“6.” Which component is not used in Pelton wheel turbine?",
       "answers": {
         "a": "Jet",
         "b": "Penstock",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7. The hydraulic efficiency of Pelton turbine will be maximum when blade velocity is equal to _______",
+      "question": "“7.” The hydraulic efficiency of Pelton turbine will be maximum when blade velocity is equal to <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>.",
       "answers": {
         "a": "V/2",
         "b": "V/3",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "8. In Pelton turbine, <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> is defined as ratio between power delivered to runner and power supplied at inlet of turbine.",
+      "question": "“8.” In Pelton turbine, <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> is defined as ratio between power delivered to runner and power supplied at inlet of turbine.",
       "answers": {
         "a": "mechanical efficiency",
         "b": "volumetric efficiency",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9. Among the following which turbine has least efficiency?",
+      "question": "“9.” Among the following which turbine has least efficiency?",
       "answers": {
         "a": "Pelton turbine",
         "b": "Kaplan turbine",
@@ -155,7 +155,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "10. The power supplied at inlet of turbine in SI units is known as:",
+      "question": "“10.” The power supplied at inlet of turbine in SI units is known as:",
       "answers": {
         "a": "Shaft power",
         "b": "Runner power",
